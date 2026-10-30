@@ -4,10 +4,10 @@ Tala - Data lead
 Saja - Product lead
 
 Files
-data/plan_courses.csv - course table: 115 courses in 5 requirement sections
-data/sample/plan_sample_5_rows.csv - data sample (5 real rows)
-notebooks/Phase1_Data_Collection.ipynb - data collection and checks (Google Colab)
-tests/seed_test_set.csv - seed test set: 30 questions with expected answers
+plan_courses.csv - course table: 115 courses in 5 requirement sections
+plan_sample_5_rows.csv - data sample (5 real rows)
+Phase1_Data_Collection.ipynb - data collection and checks (Google Colab)
+3_seed_test_set.csv - seed test set: 30 questions with expected answers
 
 Reproduce the data
 Open notebooks/Phase1_Data_Collection.ipynb in Google Colab and run all cells.
