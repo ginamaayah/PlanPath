@@ -1,7 +1,7 @@
 Team and Phase 1 roles
-Gina Maayah - Engineering lead and Evaluation lead
+Gina Maayah - Engineering lead and Product lead 
 Tala - Data lead
-Saja - Product lead
+Saja - Evaluation lead 
 
 Files
 plan_courses.csv - course table: 115 courses in 5 requirement sections
