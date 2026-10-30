@@ -1,0 +1,116 @@
+﻿line_no,code,course,hours,prerequisite_raw,teaching_method,section,section_hours,prereq_pass,prereq_study,prereq_or_concurrent,concurrent,equivalents
+801022,ARB102,communication skills in arabic,3,---,Blended,University Compulsory Req.,16,,,,,
+821104,HSS110,leader and social responsibility,3,,Electronic Course,University Compulsory Req.,16,,,,,HSS110
+821192,HSS119,entrepreneurship and innovation,2,,Electronic Course,University Compulsory Req.,16,,,,,HSS119
+841000,MS100,military sciences,3,---,Blended,University Compulsory Req.,16,,,,,
+2511010,LG101,communication skills in english,3,,Blended,University Compulsory Req.,16,ENG099/LG099,,,,LG112
+2511030,LG103,life skills,2,,Electronic Course,University Compulsory Req.,16,,,,,HSS129
+802000,ARB200,appreciation of literary texts,3,---,Electronic Course,University Elective Req.,9,,,,,
+821001,HSS100NUR,"health promotion (for non medicine ,nursing and midwifery students)",3,,Electronic Course,University Elective Req.,9,,,,,NUR100
+821002,HSS100O.T,disability and the society(not allowed for rehabilition science dep.students),3,,Electronic Course,University Elective Req.,9,,,,,O.T100
+821003,HSS100P.T,wellness and life styles (not for physical & occupational therapy),3,,Electronic Course,University Elective Req.,9,,,,,P.T100
+821004,HSS100ADS,oral & dental health,3,,Electronic Course,University Elective Req.,9,,,,,ADS100
+821017,HSS101AI,ai applications,3,---,Electronic Course,University Elective Req.,9,,,,,
+821028,HSS102ME,introduction to renewable energy (for non mechanical engineering students),3,,Electronic Course,University Elective Req.,9,,,,,ME102
+821032,HSS103,the palestinian issue,3,---,Electronic Course,University Elective Req.,9,,,,,
+821045,HSS104,ourism and museums in jordan,3,---,On Campus,University Elective Req.,9,,,,,
+821046,HSS104PH,community health and nutrition,3,,Electronic Course,University Elective Req.,9,,,,,PH104
+821052,HSS105,road safety,3,---,Electronic Course,University Elective Req.,9,,,,,
+821090,HSS109NUR,family health,3,,Electronic Course,University Elective Req.,9,,,,,NUR109
+821150,HSS115,islam and recent problems,3,---,On Campus,University Elective Req.,9,,,,,
+821160,HSS116,economic system in islam,3,---,Electronic Course,University Elective Req.,9,,,,,
+821170,HSS117,media and information literacy,3,---,Electronic Course,University Elective Req.,9,,,,,
+821211,HSS121,principles of sociology,3,---,Blended,University Elective Req.,9,,,,,
+821260,HSS126,principles of psychology,3,---,Blended,University Elective Req.,9,,,,,
+821270,HSS127,educational technology,3,---,On Campus,University Elective Req.,9,,,,,
+821300,HSS130,digital skills,3,,Electronic Course,University Elective Req.,9,CIs099,,,,
+821311,HSS131,islamic civilization,3,---,Electronic Course,University Elective Req.,9,,,,,
+821321,HSS132,the history of the city of jerusalem,3,---,Blended,University Elective Req.,9,,,,,
+821330,HSS133,civilization and recent cultures,3,---,On Campus,University Elective Req.,9,,,,,
+821350,HSS135,islamic culture,3,---,Electronic Course,University Elective Req.,9,,,,,
+821360,HSS136,the law in our life,3,---,Electronic Course,University Elective Req.,9,,,,,
+821370,HSS137,human rights,3,---,Electronic Course,University Elective Req.,9,,,,,
+821531,HSS153,islam  and contemporary challenges,3,---,Electronic Course,University Elective Req.,9,,,,,
+821611,HSS161,contemporary problems,3,---,Blended,University Elective Req.,9,,,,,
+821770,HSS177NF,"food preservation ""in english"" (for non nutrition and food technology students)",3,,Electronic Course,University Elective Req.,9,,,,,NF177NF
+821911,HSS191CHE,introduction to the nanotechnology,3,,On Campus,University Elective Req.,9,,,,,CHE191
+822000,HSS200AP,farm animal products (for non animal production and nutrition  and food technology students),3,,Electronic Course,University Elective Req.,9,,,,,AP200; AP200
+822001,HSS200PP,home gardens (for non plant production and soil and  irrigation students),3,,Electronic Course,University Elective Req.,9,,,,,PP200; PP200
+822002,HSS200NR,natural resources and human(for non plant production and soil and irrigation students),3,,Electronic Course,University Elective Req.,9,,,,,NR200; NR200; NR200
+822004,HSS200NE,principles in nuclear energy and its peaceful applications,3,,Blended,University Elective Req.,9,,,,,NE200
+822011,HSS201PP,beekeeping (for non plant production students),3,,Electronic Course,University Elective Req.,9,,,,,PP201; PP201
+822020,HSS202PP,natural plants of jordan (for non agriculture students),3,,Electronic Course,University Elective Req.,9,,,,,PP202
+822070,HSS207NR,plant earth  problems & solutions (for non agriculture students),3,,Electronic Course,University Elective Req.,9,,,,,NR207; NR207; NR207
+822110,HSS211,sociology (in english),3,---,Blended,University Elective Req.,9,,,,,
+822111,HSS211VM,animal health (not for veterinary medical and agriculture students),3,,Electronic Course,University Elective Req.,9,,,,,VM211
+822121,HSS212VM,pet animal care,3,,Electronic Course,University Elective Req.,9,,,,,VM212
+822130,HSS213,individual and society,3,---,Blended,University Elective Req.,9,,,,,
+822133,HSS213VM,animal behaviour and  welfare,3,,Electronic Course,University Elective Req.,9,,,,,VM213
+822141,HSS214VM,animal products and public  health(for non veterinary  students),3,,Electronic Course,University Elective Req.,9,,,,,VM214
+822160,HSS216,international global issues,3,---,On Campus,University Elective Req.,9,,,,,
+822310,HSS231,history of sciences in islam,3,---,Electronic Course,University Elective Req.,9,,,,,
+822511,HSS251,music tasting,3,---,On Campus,University Elective Req.,9,,,,,
+971031,ES103,sustainable development and environment,3,---,On Campus,University Elective Req.,9,,,,,
+2511040,LG104,basic skills in the chinese language,3,---,Blended,University Elective Req.,9,,,,,
+2511050,LG105,basic french language,3,---,Blended,University Elective Req.,9,,,,,
+2511060,LG106,basic german language,3,---,Blended,University Elective Req.,9,,,,,
+2511070,LG107,spanish language,3,---,On Campus,University Elective Req.,9,,,,,
+2511080,LG108,turkish language,3,---,Blended,University Elective Req.,9,,,,,
+2511090,LG109,basic skills in the korean language,3,---,Blended,University Elective Req.,9,,,,,
+821011,HSS101MATH,calculus i,3,,Electronic Course,Faculty Compulsory Req.,24,,,,,MATH101
+821018,HSS101CS,introduction to programming,2,,On Campus,Faculty Compulsory Req.,24,,,CIs099,,HSS101CS
+821023,HSS102MATH,calculus 2,3,,On Campus,Faculty Compulsory Req.,24,HSS101MATH,,,,MATH102
+821061,HSS106CS,introduction to programming lab,1,,On Campus,Faculty Compulsory Req.,24,,,,HSS101CS,HSS101CS
+821125,HSS112SE,introduction to object- oriented programming,2,,On Campus,Faculty Compulsory Req.,24,HSS101CS,,,,HSS112SE
+821131,HSS113SE,introduction to object- oriented programming lab,1,,On Campus,Faculty Compulsory Req.,24,,,,HSS112SE,HSS112SE
+822112,HSS211CS,data structures,3,,On Campus,Faculty Compulsory Req.,24,HSS112SE,HSS241MATH/MATH241,,,CS211
+822214,HSS221CIS,fundamentals of database systems,3,,On Campus,Faculty Compulsory Req.,24,,,,,CIs221
+822411,HSS241MATH,discrete mathematics,3,,Electronic Course,Faculty Compulsory Req.,24,,,,,MATH241
+8210211,HSS102SE,english skills in information technology,3,,Electronic Course,Faculty Compulsory Req.,24,,,,HSS101CS,
+822331,HSS233MATH,probability & statistics (for computer sciences students),3,,Blended,Department Compulsory Req.,71,,HSS102MATH/MATH102,,,MATH233
+901400,MATH140,elements of linear algebra,3,---,Blended,Department Compulsory Req.,71,,,,,
+1732841,CS284,analysis and design of algorithms,3,,On Campus,Department Compulsory Req.,71,,HSS211CS/CS211,,,
+1741310,CIs131,fundamentals of information systems,3,,Blended,Department Compulsory Req.,71,,,,,CIs231; HI102
+1742010,CIs201,introduction to web design,1,,On Campus,Department Compulsory Req.,71,,HSS112SE,,,HI201
+1742031,CIs203,communication and professional ethics,2,,Blended,Department Compulsory Req.,71,,,,,HSS203DS; CIs200; CIs202
+1742710,CIs271,managment information systems,3,,On Campus,Department Compulsory Req.,71,,CIs131,,,CIs351
+1743210,CIs321,data mining,3,,On Campus,Department Compulsory Req.,71,,HSS221CIS; HSS233MATH/MATH233,,,DS101; DS432; DS458
+1743220,CIs322,data warehousing and big data,3,,Blended,Department Compulsory Req.,71,,HSS221CIS,,,DS321
+1743321,CIs332,systems analysis and design,3,,Blended,Department Compulsory Req.,71,,CIs271,,,SE320; HI332
+1743350,CIs335,it project management,3,,Blended,Department Compulsory Req.,71,,CIs332,,,SE440/DS454
+1743380,CIs338,health information systems,3,,On Campus,Department Compulsory Req.,71,,HSS221CIS; CIs131,,,
+1743410,CIs341,web applications development,3,,On Campus,Department Compulsory Req.,71,,CIs201,,,DS410
+1743812,CIs381,mobile application development,2,,On Campus,Department Compulsory Req.,71,,HSS112SE; CIs341,,,HI335
+1743910,CIs391,practical training,3,,Blended,Department Compulsory Req.,71,,,,,CIs390
+1744210,CIs421,database applications,3,,On Campus,Department Compulsory Req.,71,,HSS221CIS,,,HI421
+1744310,CIs431,decision support systems and intelligent systems,3,,On Campus,Department Compulsory Req.,71,,CIs321,,,HI341
+1744351,CIs435,information retrieval,3,,On Campus,Department Compulsory Req.,71,,HSS211CS/CS211,,,DS451
+1744411,CIs441,data communication and computer networks,3,,On Campus,Department Compulsory Req.,71,,HSS211CS/CS211,,,CS342; CIs441
+1744422,CIs442,network security,3,,On Campus,Department Compulsory Req.,71,,CIs433; CIs441,,,CY452
+1744711,CIs471,financial accountng analysis,3,,On Campus,Department Compulsory Req.,71,,CIs321,,,
+1744910,CIs491,graduation project 1,1,---,Blended,Department Compulsory Req.,71,,,,,
+1744920,CIs492,graduation project 2,2,,Blended,Department Compulsory Req.,71,,CIs491,,,
+1762100,SE210,java programming,3,,On Campus,Department Compulsory Req.,71,HSS112SE,,,,
+1762300,SE230,fundamentals of software engineering,3,,On Campus,Department Compulsory Req.,71,,HSS211CS/CS211,,,
+1771010,CY101,cybersecurity fundamentals,3,,On Campus,Department Compulsory Req.,71,,CIs332,,,CIs433
+1744011,CIs401,multimedia for web design,3,,Blended,Department Elective Req.,12,,HSS211CS/CS211; CIs201,,,
+1744110,CIs411,advanced web application development,3,,On Campus,Department Elective Req.,12,,CIs341,,,
+1744120,CIs412,advanced database,3,,On Campus,Department Elective Req.,12,,HSS221CIS,,,
+1744130,CIs413,advanced mobile application development,3,,On Campus,Department Elective Req.,12,,CIs381,,,
+1744140,CIs414,parallel programming,3,,Blended,Department Elective Req.,12,,CIs321,,,
+1744320,CIs432,enterprise information systems,3,,On Campus,Department Elective Req.,12,,CIs271,,,CY431
+1744341,CIs434,security analytics,3,,On Campus,Department Elective Req.,12,,CIs433,,,DS430
+1744360,CIs436,privacy of healthcare information,3,,On Campus,Department Elective Req.,12,,CIs338,,,
+1744370,CIs437,geographic information systems,3,,Electronic Course,Department Elective Req.,12,,HSS221CIS; CIs131,,,
+1744380,CIs438,deep learning,3,,On Campus,Department Elective Req.,12,,CIs431,,,DS330
+1744511,CIs451,e-business applications,3,,Blended,Department Elective Req.,12,,CIs341,,,
+1744520,CIs452,business planning and control,3,,On Campus,Department Elective Req.,12,,CIs271,,,
+1744530,CIs453,accounting information systems,3,,On Campus,Department Elective Req.,12,,CIs131,,,
+1744542,CIs454,business process managment,3,,On Campus,Department Elective Req.,12,,HSS233MATH/MATH233; CIs332,,,CIs352
+1744571,CIs457,digital marketing,3,,Blended,Department Elective Req.,12,,CIs341,,,HI414
+1744750,CIs475,principles of modern operating systems,3,,Electronic Course,Department Elective Req.,12,,HSS211CS/CS211,,,CS375
+1744760,CIs476,cloud computing,3,,On Campus,Department Elective Req.,12,,CIs441,,,
+1744931,CIs493,special topics in computer information systems(1),1,---,On Campus,Department Elective Req.,12,,,,,
+1744941,CIs494,special topics in computer information systems(2),2,---,On Campus,Department Elective Req.,12,,,,,
+1744951,CIs495,special topics in computer information systems(3),3,---,On Campus,Department Elective Req.,12,,,,,
+1764120,SE412,selected programming languages,3,,On Campus,Department Elective Req.,12,,CIs321,,,CIs410; DS110
