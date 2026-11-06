@@ -17,8 +17,8 @@
     "section_university_compulsory_requirements"
   ],
   "course_docs_used": [],
-  "train_tokens": null,
-  "heldout_tokens": null,
+  "train_tokens": 12320,
+  "heldout_tokens": 1294,
   "train_characters": 49324,
   "heldout_characters": 5237
 }
