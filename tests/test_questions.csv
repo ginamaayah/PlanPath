@@ -1,0 +1,31 @@
+﻿id,question,expected_answer,source,difficulty
+1,How many credit hours of University Compulsory Requirements do I need?,16 credit hours,"CIS study plan no. 766, University Compulsory Req. header",easy
+2,How many University Elective hours do I need?,9 credit hours,"CIS study plan no. 766, University Elective Req. header",easy
+3,How many Faculty Compulsory credit hours are in the plan?,24 credit hours,"CIS study plan no. 766, Faculty Compulsory Req. header",easy
+4,How many Department Compulsory credit hours are in the plan?,71 credit hours,"CIS study plan no. 766, Department Compulsory Req. header",easy
+5,How many Department Elective hours do I need?,12 credit hours,"CIS study plan no. 766, Department Elective Req. header",easy
+6,How many credit hours is Mobile Application Development?,2 credit hours (CIs381),"CIS study plan no. 766, row CIs381 (line 1743812)",easy
+7,How many credit hours is Introduction to Web Design?,1 credit hour (CIs201),"CIS study plan no. 766, row CIs201 (line 1742010)",easy
+8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,Department Compulsory Requirements,"CIS study plan no. 766, row MATH140 (line 901400)",easy
+9,Does MATH140 Elements of Linear Algebra have a prerequisite?,"No, it has no prerequisite","CIS study plan no. 766, row MATH140 (line 901400)",easy
+10,Is Discrete Mathematics a faculty or department requirement?,Faculty Compulsory Requirements (HSS241MATH),"CIS study plan no. 766, row HSS241MATH (line 822411)",easy
+11,What is the course code for Mobile Application Development?,CIs381,"CIS study plan no. 766, row CIs381 (line 1743812)",easy
+12,how many hours is data mining?,3 credit hours (CIs321 Data Mining),"CIS study plan no. 766, row CIs321 (line 1743210)",easy
+13,is systems analysis and design compulsory or elective?,Compulsory: Department Compulsory Requirements (CIs332),"CIS study plan no. 766, row CIs332 (line 1743321)",easy
+14,how many credit hours is communication and professional ethics?,2 credit hours (CIs203),"CIS study plan no. 766, row CIs203 (line 1742031)",easy
+15,what's the course code for data warehousing and big data?,CIs322,"CIS study plan no. 766, row CIs322 (line 1743220)",easy
+16,What do I need before I can take CS284 Analysis and Design of Algorithms?,Data structures (HSS211CS or CS211) must be studied first,"CIS study plan no. 766, row CS284 (line 1732841), prerequisite rows",medium
+17,What are the prerequisites for CIs381 Mobile Application Development?,"HSS112SE (Introduction to Object-Oriented Programming) and CIs341, both studied first","CIS study plan no. 766, row CIs381 (line 1743812), prerequisite rows",medium
+18,What is the prerequisite for LG101 Communication Skills in English?,Passing the remedial English course (ENG099 or LG099),"CIS study plan no. 766, row LG101 (line 2511010), prerequisite rows",medium
+19,What are the prerequisites for CIs401 Multimedia for Web Design?,"Data structures (HSS211CS or CS211) and CIs201 Introduction to Web Design, studied first","CIS study plan no. 766, row CIs401 (line 1744011), prerequisite rows",medium
+20,I took HSS211CS Data Structures. Can I register for CS284?,Yes; data structures is its only prerequisite,"CIS study plan no. 766, row CS284 (line 1732841), prerequisite rows",medium
+21,Which course is listed as equivalent to LG101?,LG112 English Language (2),"CIS study plan no. 766, row LG101 (line 2511010), equivalent row",medium
+22,ما هو المتطلب السابق لمادة تحليل وتصميم الخوارزميات CS284؟,هياكل البيانات (HSS211CS أو CS211) يجب دراستها أولاً,"CIS study plan no. 766, row CS284 (line 1732841), prerequisite rows",medium
+23,is multimedia for web design compulsory?,No; CIs401 is a Department Elective (3 credit hours),"CIS study plan no. 766, row CIs401 (line 1744011)",medium
+24,what do i need before database applications?,"HSS221CIS Fundamentals of Database Systems, studied first","CIS study plan no. 766, row CIs421 (line 1744210), prerequisite rows",medium
+25,"can i take ai applications as a university elective, does it need a prerequisite?",Yes; HSS101AI AI Applications is a University Elective (3 credit hours) with no prerequisite,"CIS study plan no. 766, row HSS101AI (line 821017)",medium
+26,I only took HSS112SE. Can I register for CIs381 next semester?,No; CIs381 also requires CIs341,"CIS study plan no. 766, row CIs381 (line 1743812), prerequisite rows",hard
+27,How many credit hours is the whole plan?,132 credit hours (16 + 9 + 24 + 71 + 12),"CIS study plan no. 766, all five section headers",hard
+28,Who teaches CIs381 this semester?,I don't know; teaching assignments are not in the study plan. Please check the department's semester schedule.,Not in data (should refuse),hard
+29,Will CS284 be offered in the summer semester?,I don't know; semester course offerings are not in the study plan. Please ask the department.,Not in data (should refuse),hard
+30,Can my advisor let me skip a prerequisite?,I don't know; exceptions are decided by the department and are not in the study plan. Please ask your academic advisor.,Not in data (should refuse),hard
