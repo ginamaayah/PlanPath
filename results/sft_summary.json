@@ -1,0 +1,13 @@
+{
+  "start_model": "/content/drive/MyDrive/PlanPath/checkpoints/cpt/final",
+  "chat_template": "<|user|>\\n{question}\\n<|assistant|>\\n{answer}<|end|>",
+  "train_pairs": 766,
+  "val_pairs": 85,
+  "answer_tokens": 13003,
+  "all_tokens": 25656,
+  "epochs_planned": 3,
+  "learning_rate": 5e-05,
+  "best_validation_loss": 0.48380181193351746,
+  "best_checkpoint": "/content/drive/MyDrive/PlanPath/checkpoints/sft/checkpoint-288",
+  "final_checkpoint": "/content/drive/MyDrive/PlanPath/checkpoints/sft/final"
+}

@@ -1,0 +1,32 @@
+{
+  "model": "gpt2",
+  "train_docs": 109,
+  "heldout_docs": 12,
+  "train_tokens": 12320,
+  "heldout_tokens": 1294,
+  "block_size": 512,
+  "learning_rate": 5e-05,
+  "epochs_planned": 3,
+  "epochs_run": 3,
+  "epoch_validation_loss": [
+    {
+      "epoch": 1,
+      "step": 13,
+      "eval_loss": 1.3939179182052612
+    },
+    {
+      "epoch": 2,
+      "step": 26,
+      "eval_loss": 1.1313329935073853
+    },
+    {
+      "epoch": 3,
+      "step": 39,
+      "eval_loss": 1.0553470849990845
+    }
+  ],
+  "best_epoch": 3,
+  "heldout_perplexity_before": 9.825,
+  "heldout_perplexity_after": 2.669,
+  "final_checkpoint": "/content/drive/MyDrive/PlanPath/checkpoints/cpt/final"
+}

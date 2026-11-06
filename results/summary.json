@@ -1,0 +1,30 @@
+{
+  "grader_initial_agreement": 0.9047619047619048,
+  "hand_graded_items": 21,
+  "models": {
+    "base": {
+      "accuracy": 3.3,
+      "refusal_accuracy": 0.0,
+      "avg_latency_s": 0.69,
+      "heldout_perplexity": 9.825153400362796,
+      "points": 1.0,
+      "questions": 30
+    },
+    "cpt": {
+      "accuracy": 0.0,
+      "refusal_accuracy": 0.0,
+      "avg_latency_s": 0.676,
+      "heldout_perplexity": 2.668774778232602,
+      "points": 0.0,
+      "questions": 30
+    },
+    "sft": {
+      "accuracy": 20.0,
+      "refusal_accuracy": 0.0,
+      "avg_latency_s": 0.202,
+      "heldout_perplexity": 2.8329955584785655,
+      "points": 6.0,
+      "questions": 30
+    }
+  }
+}

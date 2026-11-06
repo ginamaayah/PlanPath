@@ -1,0 +1,82 @@
+﻿model,id,question,expected_answer,model_answer,grader_1,grader_2,agreed,note
+base,16,What do I need before I can take CS284 Analysis and Design of Algorithms?,Data structures (HSS211CS or CS211) must be studied first,"What is the best way to get CS284 Analysis and Design of Algorithms?
+<|assistant|>
+What is the best way to get CS284 Analysis and Design of Algorithms?
+<|assistant|>
+What is the best way to get CS284 Analysis and Design of Al",0,0,,hand-graded
+base,17,What are the prerequisites for CIs381 Mobile Application Development?,"HSS112SE (Introduction to Object-Oriented Programming) and CIs341, both studied first","What are the prerequisites for CIs381 Mobile Application Development?
+<|assistant|>
+What are the prerequisites for CIs381 Mobile Application Development?
+<|assistant|>
+What are the prerequisites for CIs381 Mobile Application Development?
+<|assistant|>
+What",0,0,,hand-graded
+base,18,What is the prerequisite for LG101 Communication Skills in English?,Passing the remedial English course (ENG099 or LG099),"What is the prerequisite for LG101 Communication Skills in English?
+<|assistant|>
+What is the prerequisite for LG101 Communication Skills in English?
+<|assistant|>
+What is the prerequisite for LG101 Communication Skills in English?
+<|assistant|>
+What is the prerequisite",0,0,,hand-graded
+base,19,What are the prerequisites for CIs401 Multimedia for Web Design?,"Data structures (HSS211CS or CS211) and CIs201 Introduction to Web Design, studied first","What is the minimum requirements for CIs401 Multimedia for Web Design?
+<|assistant|>
+What is the minimum requirements for CIs401 Multimedia for Web Design?
+<|assistant|>
+What is the minimum requirements for CIs401 Multimedia for Web Design?
+<|",0,0,,hand-graded
+base,22,ما هو المتطلب السابق لمادة تحليل وتصميم الخوارزميات CS284؟,هياكل البيانات (HSS211CS أو CS211) يجب دراستها أولاً,"ما هو المتطلب السابق لمادة تحليل وتصميم الخوارزميات CS285؟
+<|assistant|>
+ما",0,0,,hand-graded
+base,24,what do i need before database applications?,"HSS221CIS Fundamentals of Database Systems, studied first",what do i need before database applications?,0,0,,hand-graded
+base,25,"can i take ai applications as a university elective, does it need a prerequisite?",Yes; HSS101AI AI Applications is a University Elective (3 credit hours) with no prerequisite,"can i take ai applications as a university elective, does it need a prerequisite?
+
+<|assistant|>
+
+can i take ai applications as a university elective, does it need a prerequisite?
+
+<|assistant|>
+
+can i take ai applications as",0,0,,hand-graded
+cpt,16,What do I need before I can take CS284 Analysis and Design of Algorithms?,Data structures (HSS211CS or CS211) must be studied first,"What is the CS284 course?
+<|credit|>
+What is the CS284 course in the Department Elective Requirements of the Computer Information Systems (CIS) study plan?
+<|credit|>
+What is the CS284 course in the Department Elective Requirements of the Computer Information Systems (C",0,0,,hand-graded
+cpt,17,What are the prerequisites for CIs381 Mobile Application Development?,"HSS112SE (Introduction to Object-Oriented Programming) and CIs341, both studied first","CIs381 Mobile Application Development is a course of 3 credit hours in the Department Elective Requirements of the Computer Information Systems (CIS) study plan (plan no. 766).
+<|credit|>
+CIs381 Mobile Application Development is taught as an elective course in the plan.
+<|",0,0,,hand-graded
+cpt,18,What is the prerequisite for LG101 Communication Skills in English?,Passing the remedial English course (ENG099 or LG099),"What is the prerequisite for LG101 Communication Skills in English?
+<|computer|>
+What is the prerequisite for LG101 Communication Skills in English?
+<|computer|>
+<|computer|>
+<|computer|>
+<|computer|>
+<|computer|>
+<|",0,0,,hand-graded
+cpt,19,What are the prerequisites for CIs401 Multimedia for Web Design?,"Data structures (HSS211CS or CS211) and CIs201 Introduction to Web Design, studied first","CIs401 Multimedia for Web Design is a course of 3 credit hours in the Department Elective Requirements of the Computer Information Systems (CIS) study plan (plan no. 766).
+<|credit|>
+CIs401 Multimedia for Web Design is taught as an elective course in the Department",0,0,,hand-graded
+cpt,22,ما هو المتطلب السابق لمادة تحليل وتصميم الخوارزميات CS284؟,هياكل البيانات (HSS211CS أو CS211) يجب دراستها أولاً,"ما هو المتطلب السابق لمادة تحليل وتصميم الخوارزميات CS284(1)
+<|assistant|>
+م",0,0,,hand-graded
+cpt,24,what do i need before database applications?,"HSS221CIS Fundamentals of Database Systems, studied first",what do i need before database applications?,0,0,,hand-graded
+cpt,25,"can i take ai applications as a university elective, does it need a prerequisite?",Yes; HSS101AI AI Applications is a University Elective (3 credit hours) with no prerequisite,"<|student|>
+<|other|>
+<|other|>
+<|other|>
+<|other|>
+<|other|>
+<|other|>
+<|other|>
+<|other|>
+<|other|>
+<|other|",0,0,,hand-graded
+sft,16,What do I need before I can take CS284 Analysis and Design of Algorithms?,Data structures (HSS211CS or CS211) must be studied first,No prerequisite: CS284 has no prerequisite in the study plan.,0,0,,hand-graded
+sft,17,What are the prerequisites for CIs381 Mobile Application Development?,"HSS112SE (Introduction to Object-Oriented Programming) and CIs341, both studied first","For CIs381, you must have studied CIs341 (Web Applications Development) first.",0.5,0.5,,hand-graded
+sft,18,What is the prerequisite for LG101 Communication Skills in English?,Passing the remedial English course (ENG099 or LG099),"For LG101, you must have studied CIs341 (Web Applications Development) first.",0,0,,hand-graded
+sft,19,What are the prerequisites for CIs401 Multimedia for Web Design?,"Data structures (HSS211CS or CS211) and CIs201 Introduction to Web Design, studied first","For CIs401, you must have studied CIs321 (Web Applications Development) first.",0,0,,hand-graded
+sft,22,ما هو المتطلب السابق لمادة تحليل وتصميم الخوارزميات CS284؟,هياكل البيانات (HSS211CS أو CS211) يجب دراستها أولاً,HSS102NUR (NUR Health Information Systems) is taught as an electronic (online) course.,0,0,,hand-graded
+sft,24,what do i need before database applications?,"HSS221CIS Fundamentals of Database Systems, studied first",No prerequisite: Database is elective: it is in the University Elective Requirements.,0,0.5,0,hand-graded
+sft,25,"can i take ai applications as a university elective, does it need a prerequisite?",Yes; HSS101AI AI Applications is a University Elective (3 credit hours) with no prerequisite,No prerequisite: HSS211 has no prerequisite in the study plan.,0.5,0,0.5,hand-graded

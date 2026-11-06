@@ -1,0 +1,174 @@
+id,question,expected_answer,model_answer,scoring,key,extracted,score,note,latency_s
+1,How many credit hours of University Compulsory Requirements do I need?,16 credit hours,"How many credit hours of University Compulsory Requirements do I need?
+<|credit|>
+How many credit hours of University Compulsory Requirements do I need?
+<|credit|>
+How many credit hours of University Compulsory Requirements do I need?
+<|credit|>
+How",number,16,,0.0,no number found,0.838
+2,How many University Elective hours do I need?,9 credit hours,"How many University Elective hours do I need?
+<|assistant|>
+How many University Elective hours do I need?
+<|assistant|>
+How many University Elective hours do I need?
+<|assistant|>
+How many University Elective hours do I need?",number,9,,0.0,no number found,0.643
+3,How many Faculty Compulsory credit hours are in the plan?,24 credit hours,"How many credit hours are in the plan?
+<|department|>
+How many credit hours are in the plan?
+<|department|>
+How many credit hours are in the plan?
+<|department|>
+How many credit hours are in the plan?
+<|dep",number,24,,0.0,no number found,0.613
+4,How many Department Compulsory credit hours are in the plan?,71 credit hours,"How many credit hours are in the plan?
+<|department|>
+How many credit hours are in the plan?
+<|department|>
+How many credit hours are in the plan?
+<|department|>
+How many credit hours are in the plan?
+<|dep",number,71,,0.0,no number found,0.621
+5,How many Department Elective hours do I need?,12 credit hours,"How many Department Elective hours do I need?
+<|deputy|>
+How many Department Elective hours do I need?
+<|deputy|>
+How many Department Elective hours do I need?
+<|deputy|>
+How many Department Elective hours do I need?",number,12,,0.0,no number found,0.641
+6,How many credit hours is Mobile Application Development?,2 credit hours (CIs381),"How many credit hours is Mobile Application Development?
+<|student|>
+How many credit hours is Mobile Application Development?
+<|minor|>
+How many credit hours is Mobile Application Development?
+<|major|>
+How many credit hours is Mobile Application Development?
+<|minor|",number,2,,0.0,no number found,0.61
+7,How many credit hours is Introduction to Web Design?,1 credit hour (CIs201),"How many credit hours is Web Design?
+<|webmaster|>
+How many credit hours is Web Design?
+<|webdesigner|>
+How many credit hours is Web Design?
+<|webdesigner|>
+<|webdesigner|>
+<|webdesigner|",number,1,,0.0,no number found,0.617
+8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,Department Compulsory Requirements,"Which requirement group does MATH140 Elements of Linear Algebra belong to?
+<|planner|>
+Which requirement group does MATH140 Elements of Linear Algebra belong to?
+<|planner|>
+Which requirement group does MATH140 Elements of Linear Algebra belong to?
+<|",section,department compulsory,,0.0,no section found,0.617
+9,Does MATH140 Elements of Linear Algebra have a prerequisite?,"No, it has no prerequisite","Is MATH140 Elements of Linear Algebra a prerequisite?
+<|planner|>
+Is MATH140 Elements of Linear Algebra a prerequisite?
+<|planner|>
+Is MATH140 Elements of Linear Algebra a prerequisite?
+<|planner|>
+Is MATH140",yesno,no,,0.0,no yesno found,0.637
+10,Is Discrete Mathematics a faculty or department requirement?,Faculty Compulsory Requirements (HSS241MATH),"Is Discrete Mathematics a course of study?
+<|no requirement|>
+Is Discrete Mathematics a course of study (for students who have no prerequisite)?
+<|no requirement|>
+Is Discrete Mathematics a course of study (for students who have no prerequisite)?
+<|no requirement|>",choice,faculty,,0.0,no choice found,0.663
+11,What is the course code for Mobile Application Development?,CIs381,"What is the course code for Mobile Application Development?
+<|assistant|>
+What is the course code for Mobile Application Development?
+<|assistant|>
+What is the course code for Mobile Application Development?
+<|assistant|>
+What is the course code for Mobile Application Development?",code,cis381,,0.0,no code found,0.632
+12,how many hours is data mining?,3 credit hours (CIs321 Data Mining),,number,3,,0.0,no number found,0.629
+13,is systems analysis and design compulsory or elective?,Compulsory: Department Compulsory Requirements (CIs332),,choice,compulsory,,0.0,no choice found,0.627
+14,how many credit hours is communication and professional ethics?,2 credit hours (CIs203),,number,2,,0.0,no number found,0.63
+15,what's the course code for data warehousing and big data?,CIs322,,code,cis322,,0.0,no code found,0.643
+16,What do I need before I can take CS284 Analysis and Design of Algorithms?,Data structures (HSS211CS or CS211) must be studied first,"What is the CS284 course?
+<|credit|>
+What is the CS284 course in the Department Elective Requirements of the Computer Information Systems (CIS) study plan?
+<|credit|>
+What is the CS284 course in the Department Elective Requirements of the Computer Information Systems (C",hand,,,0.0,hand-graded,0.645
+17,What are the prerequisites for CIs381 Mobile Application Development?,"HSS112SE (Introduction to Object-Oriented Programming) and CIs341, both studied first","CIs381 Mobile Application Development is a course of 3 credit hours in the Department Elective Requirements of the Computer Information Systems (CIS) study plan (plan no. 766).
+<|credit|>
+CIs381 Mobile Application Development is taught as an elective course in the plan.
+<|",hand,,,0.0,hand-graded,0.8
+18,What is the prerequisite for LG101 Communication Skills in English?,Passing the remedial English course (ENG099 or LG099),"What is the prerequisite for LG101 Communication Skills in English?
+<|computer|>
+What is the prerequisite for LG101 Communication Skills in English?
+<|computer|>
+<|computer|>
+<|computer|>
+<|computer|>
+<|computer|>
+<|",hand,,,0.0,hand-graded,0.837
+19,What are the prerequisites for CIs401 Multimedia for Web Design?,"Data structures (HSS211CS or CS211) and CIs201 Introduction to Web Design, studied first","CIs401 Multimedia for Web Design is a course of 3 credit hours in the Department Elective Requirements of the Computer Information Systems (CIS) study plan (plan no. 766).
+<|credit|>
+CIs401 Multimedia for Web Design is taught as an elective course in the Department",hand,,,0.0,hand-graded,0.876
+20,I took HSS211CS Data Structures. Can I register for CS284?,Yes; data structures is its only prerequisite,"Yes.
+<|planner|>
+<|planner.planner.planner.planner.planner.planner.planner.planner.planner.planner.planner.planner.planner.planner.planner.planner.planner.plan",yesno,yes,,0.0,no yesno found,0.819
+21,Which course is listed as equivalent to LG101?,LG112 English Language (2),"Which course is listed as equivalent to C101?
+<|computer|>
+Which course is listed as equivalent to C101?
+<|computer|>
+Which course is listed as equivalent to C101?
+<|computer|>
+Which course is listed as equivalent to C101?
+<|",code,lg112,,0.0,no code found,0.909
+22,ما هو المتطلب السابق لمادة تحليل وتصميم الخوارزميات CS284؟,هياكل البيانات (HSS211CS أو CS211) يجب دراستها أولاً,"ما هو المتطلب السابق لمادة تحليل وتصميم الخوارزميات CS284(1)
+<|assistant|>
+م",hand,,,0.0,hand-graded,0.69
+23,is multimedia for web design compulsory?,No; CIs401 is a Department Elective (3 credit hours),,yesno,no,,0.0,no yesno found,0.619
+24,what do i need before database applications?,"HSS221CIS Fundamentals of Database Systems, studied first",what do i need before database applications?,hand,,,0.0,hand-graded,0.629
+25,"can i take ai applications as a university elective, does it need a prerequisite?",Yes; HSS101AI AI Applications is a University Elective (3 credit hours) with no prerequisite,"<|student|>
+<|other|>
+<|other|>
+<|other|>
+<|other|>
+<|other|>
+<|other|>
+<|other|>
+<|other|>
+<|other|>
+<|other|",hand,,,0.0,hand-graded,0.628
+26,I only took HSS112SE. Can I register for CIs381 next semester?,No; CIs381 also requires CIs341,"Yes.
+<|planner|>
+<|planner.pdf|>
+<|planner.pdf|>
+<|planner.pdf|>
+<|planner.pdf|>
+<|planner.pdf|>
+<|planner.pdf|>",yesno,no,,0.0,no yesno found,0.616
+27,How many credit hours is the whole plan?,132 credit hours (16 + 9 + 24 + 71 + 12),"How many credit hours is the plan?
+<|planner|>
+How many credit hours is the plan?
+<|planner|>
+How many credit hours is the plan?
+<|planner|>
+How many credit hours is the plan?
+<|planner|>",number,132,,0.0,no number found,0.633
+28,Who teaches CIs381 this semester?,I don't know; teaching assignments are not in the study plan. Please check the department's semester schedule.,"Who is responsible for CIs381?
+<|student|>
+Who is responsible for CIs381?
+<|other|>
+Who is responsible for CIs381?
+<|other|>
+Who is responsible for CIs381?
+<|other|>
+Who is responsible for",refuse,,,0.0,did not refuse,0.61
+29,Will CS284 be offered in the summer semester?,I don't know; semester course offerings are not in the study plan. Please ask the department.,"Will CS284 be offered in the fall semester?
+<|assistant|>
+Will CS284 be offered in the spring semester?
+<|assistant|>
+Will CS284 be offered in the summer semester?
+<|assistant|>
+Will CS284 be offered in the fall semester?",refuse,,,0.0,did not refuse,0.634
+30,Can my advisor let me skip a prerequisite?,I don't know; exceptions are decided by the department and are not in the study plan. Please ask your academic advisor.,"Can I skip a prerequisite?
+<|planner|>
+Can I skip a prerequisite?
+<|planner|>
+Can I skip a prerequisite?
+<|planner|>
+Can I skip a prerequisite?
+<|planner|>
+Can I skip a prerequisite?
+<",refuse,,,0.0,did not refuse,0.661
