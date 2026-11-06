@@ -1,0 +1,47 @@
+seed: 42
+
+model:
+  base: gpt2
+
+paths:
+  courses_csv: data/cpt/plan_courses.csv
+  raw_rows_csv: data/cpt/plan_rows_raw.csv
+  course_docs_dir: data/cpt/course_docs
+  cpt_dir: data/cpt
+  sft_pairs: data/sft_pairs.jsonl
+  test_questions: tests/test_questions.csv
+  results_dir: results
+  checkpoints_root: checkpoints
+
+cpt:
+  use_course_docs: true
+  heldout_fraction: 0.1
+  block_size: 512
+  epochs: 3
+  learning_rate: 5.0e-5
+  batch_size: 2
+  gradient_accumulation_steps: 1
+  weight_decay: 0.01
+  warmup_ratio: 0.05
+  evals_per_epoch: 4
+  early_stopping_patience: 1
+  completion_max_new_tokens: 50
+  prompts:
+    - "CIs341 Web Applications Development is"
+    - "Before taking CS284, students must have"
+    - "The Department Compulsory Requirements of the"
+    - "HSS221CIS Fundamentals of Database Systems"
+    - "The JUST B.Sc. Computer Information Systems study plan"
+
+sft:
+  val_fraction: 0.1
+  max_length: 256
+  epochs: 3
+  learning_rate: 5.0e-5
+  batch_size: 8
+  gradient_accumulation_steps: 1
+  weight_decay: 0.01
+  warmup_ratio: 0.05
+
+generation:
+  max_new_tokens: 64
