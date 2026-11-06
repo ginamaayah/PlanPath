@@ -1,0 +1,24 @@
+{
+  "documents": 121,
+  "train_documents": 109,
+  "heldout_documents": 12,
+  "heldout_doc_ids": [
+    "HSS100P.T",
+    "HSS137",
+    "HSS214VM",
+    "CIs201",
+    "CIs322",
+    "CIs341",
+    "CIs431",
+    "CIs435",
+    "CIs471",
+    "CIs492",
+    "CIs413",
+    "section_university_compulsory_requirements"
+  ],
+  "course_docs_used": [],
+  "train_tokens": null,
+  "heldout_tokens": null,
+  "train_characters": 49324,
+  "heldout_characters": 5237
+}
