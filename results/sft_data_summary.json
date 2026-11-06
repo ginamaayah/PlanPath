@@ -1,0 +1,39 @@
+{
+  "pairs": 851,
+  "train": 766,
+  "val": 85,
+  "by_type": {
+    "prereq": 98,
+    "section": 98,
+    "hours": 98,
+    "code": 98,
+    "teaching": 98,
+    "name": 98,
+    "type": 98,
+    "refusal": 59,
+    "equivalent": 42,
+    "eligible_yes": 32,
+    "eligible_no": 32
+  },
+  "excluded_test_courses": [
+    "CIs201",
+    "CIs203",
+    "CIs321",
+    "CIs322",
+    "CIs332",
+    "CIs341",
+    "CIs381",
+    "CIs401",
+    "CIs421",
+    "CS284",
+    "HSS101AI",
+    "HSS112SE",
+    "HSS211CS",
+    "HSS221CIS",
+    "HSS241MATH",
+    "LG101",
+    "MATH140"
+  ],
+  "exact_test_question_copies": 0,
+  "max_similarity_to_test": 0.862
+}

@@ -1,0 +1,852 @@
+sft_id,sft_question,closest_test_id,closest_test_question,similarity
+sft_0836,How many credit hours is Advanced Web Application Development?,6,How many credit hours is Mobile Application Development?,0.862
+sft_0649,How many credit hours is Introduction to Programming?,7,How many credit hours is Introduction to Web Design?,0.835
+sft_0532,what's the code of advanced mobile application development?,11,What is the course code for Mobile Application Development?,0.828
+sft_0155,What are the prerequisites for ARB102 Communication Skills in Arabic?,18,What is the prerequisite for LG101 Communication Skills in English?,0.821
+sft_0561,How many credit hours is Data Communication and Computer Networks?,14,how many credit hours is communication and professional ethics?,0.772
+sft_0034,Which course is equivalent to HSS104PH?,21,Which course is listed as equivalent to LG101?,0.771
+sft_0040,Which course is equivalent to HSS106CS?,21,Which course is listed as equivalent to LG101?,0.771
+sft_0600,Which course is equivalent to HSS201PP?,21,Which course is listed as equivalent to LG101?,0.771
+sft_0091,How many credit hours is Communication Skills in Arabic?,14,how many credit hours is communication and professional ethics?,0.769
+sft_0094,Which course is equivalent to CIs441?,21,Which course is listed as equivalent to LG101?,0.765
+sft_0127,Which course is equivalent to CIs271?,21,Which course is listed as equivalent to LG101?,0.765
+sft_0295,Which course is equivalent to HSS100ADS?,21,Which course is listed as equivalent to LG101?,0.762
+sft_0800,Which course is equivalent to HSS100P.T?,21,Which course is listed as equivalent to LG101?,0.762
+sft_0133,What are the prerequisites for CIs451 E-business Applications?,17,What are the prerequisites for CIs381 Mobile Application Development?,0.76
+sft_0585,What is the credit hour count of CIs413 Advanced Mobile Application Development?,11,What is the course code for Mobile Application Development?,0.759
+sft_0197,How many credit hours is LG104?,27,How many credit hours is the whole plan?,0.754
+sft_0316,How many credit hours is LG105?,27,How many credit hours is the whole plan?,0.754
+sft_0784,How many credit hours is SE412?,27,How many credit hours is the whole plan?,0.754
+sft_0280,What is the course code for E-business Applications?,11,What is the course code for Mobile Application Development?,0.752
+sft_0056,How many credit hours is HSS102SE?,27,How many credit hours is the whole plan?,0.75
+sft_0689,How many credit hours is HSS201PP?,27,How many credit hours is the whole plan?,0.75
+sft_0705,How many credit hours is HSS113SE?,27,How many credit hours is the whole plan?,0.75
+sft_0841,How many credit hours is HSS202PP?,27,How many credit hours is the whole plan?,0.75
+sft_0026,Which course is equivalent to HSS200NR?,21,Which course is listed as equivalent to LG101?,0.747
+sft_0382,Which course is equivalent to HSS214VM?,21,Which course is listed as equivalent to LG101?,0.747
+sft_0386,Which course is equivalent to HSS200NE?,21,Which course is listed as equivalent to LG101?,0.747
+sft_0523,Which course is equivalent to HSS200AP?,21,Which course is listed as equivalent to LG101?,0.747
+sft_0695,Which course is equivalent to HSS177NF?,21,Which course is listed as equivalent to LG101?,0.747
+sft_0627,Is Pet Animal Care compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.745
+sft_0038,How many credit hours is HSS132?,27,How many credit hours is the whole plan?,0.743
+sft_0135,How many credit hours is HSS153?,27,How many credit hours is the whole plan?,0.743
+sft_0265,How many credit hours is HSS251?,27,How many credit hours is the whole plan?,0.743
+sft_0628,How many credit hours is HSS130?,27,How many credit hours is the whole plan?,0.743
+sft_0680,How many credit hours is HSS133?,27,How many credit hours is the whole plan?,0.743
+sft_0759,How many credit hours is HSS103?,27,How many credit hours is the whole plan?,0.743
+sft_0593,What are the prerequisites for HSS211 Sociology (in English)?,18,What is the prerequisite for LG101 Communication Skills in English?,0.742
+sft_0247,Which course is equivalent to CIs454?,21,Which course is listed as equivalent to LG101?,0.741
+sft_0357,How many credit hours is HSS100P.T?,27,How many credit hours is the whole plan?,0.74
+sft_0423,How many credit hours is HSS100ADS?,27,How many credit hours is the whole plan?,0.74
+sft_0448,How many credit hours is HSS109NUR?,27,How many credit hours is the whole plan?,0.74
+sft_0058,How many credit hours is Human Rights?,27,How many credit hours is the whole plan?,0.737
+sft_0462,Is Spanish Language compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.737
+sft_0166,What are the prerequisites for MS100 Military Sciences?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.735
+sft_0073,How many credit hours is Cloud Computing?,27,How many credit hours is the whole plan?,0.734
+sft_0142,Which requirement group does HSS121 Principles of Sociology belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.732
+sft_0478,How many credit hours is Digital Marketing?,12,how many hours is data mining?,0.732
+sft_0010,how many hours is spanish language?,12,how many hours is data mining?,0.73
+sft_0253,How many credit hours is HSS102MATH?,27,How many credit hours is the whole plan?,0.73
+sft_0158,What is the course code for Human Rights?,15,what's the course code for data warehousing and big data?,0.729
+sft_0287,How many credit hours is Basic German Language?,27,How many credit hours is the whole plan?,0.729
+sft_0652,What is the course code for Communication Skills in Arabic?,18,What is the prerequisite for LG101 Communication Skills in English?,0.726
+sft_0368,How many credit hours is Java Programming?,27,How many credit hours is the whole plan?,0.725
+sft_0691,How many credit hours is MS100?,27,How many credit hours is the whole plan?,0.725
+sft_0692,How many credit hours is CY101?,27,How many credit hours is the whole plan?,0.725
+sft_0792,how many hours is educational technology?,12,how many hours is data mining?,0.725
+sft_0057,What are the prerequisites for CIs391 Practical Training?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.723
+sft_0667,How many credit hours is HSS214VM?,27,How many credit hours is the whole plan?,0.722
+sft_0719,How many credit hours is HSS212VM?,27,How many credit hours is the whole plan?,0.722
+sft_0240,how many hours is introduction to programming lab?,7,How many credit hours is Introduction to Web Design?,0.72
+sft_0093,What are the prerequisites for CIs442 Network Security?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.718
+sft_0446,How many credit hours is Community Health and Nutrition?,14,how many credit hours is communication and professional ethics?,0.718
+sft_0090,What is the course code for Islamic Civilization?,11,What is the course code for Mobile Application Development?,0.717
+sft_0124,What is the course code for Graduation Project 1?,11,What is the course code for Mobile Application Development?,0.717
+sft_0405,What is the course code for Graduation Project 2?,11,What is the course code for Mobile Application Development?,0.717
+sft_0303,What is the course code for Road Safety?,15,what's the course code for data warehousing and big data?,0.716
+sft_0003,How many credit hours is CIs453?,27,How many credit hours is the whole plan?,0.714
+sft_0131,Which requirement group does SE230 Fundamentals of Software Engineering belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.714
+sft_0380,How many credit hours is CIs494?,27,How many credit hours is the whole plan?,0.714
+sft_0519,How many credit hours is CIs438?,27,How many credit hours is the whole plan?,0.714
+sft_0643,How many credit hours is CIs391?,27,How many credit hours is the whole plan?,0.714
+sft_0700,What is the course code for Animal Behaviour and Welfare?,15,what's the course code for data warehousing and big data?,0.714
+sft_0782,How many credit hours is CIs412?,27,How many credit hours is the whole plan?,0.714
+sft_0204,What is the course code for Advanced Database?,15,what's the course code for data warehousing and big data?,0.713
+sft_0321,Which requirement group does LG103 Life Skills belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.713
+sft_0510,Which requirement group does HSS116 Economic System in Islam belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.713
+sft_0580,What is the course code for Islamic Culture?,11,What is the course code for Mobile Application Development?,0.713
+sft_0296,What are the prerequisites for CIs412 Advanced Database?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.712
+sft_0425,What is the course code for Civilization and Recent Cultures?,11,What is the course code for Mobile Application Development?,0.712
+sft_0047,How many credit hours is Basic Skills in the Korean Language?,27,How many credit hours is the whole plan?,0.707
+sft_0024,Which course is equivalent to HSS233MATH?,21,Which course is listed as equivalent to LG101?,0.706
+sft_0138,How many credit hours is Contemporary Problems?,27,How many credit hours is the whole plan?,0.706
+sft_0213,How many credit hours is Calculus I?,27,How many credit hours is the whole plan?,0.703
+sft_0300,What do I need before taking ES103?,24,what do i need before database applications?,0.701
+sft_0788,Is The Palestinian Issue compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.7
+sft_0806,Which requirement group does HSS216 International Global Issues belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.699
+sft_0288,What are the prerequisites for LG109 Basic Skills in the Korean Language?,18,What is the prerequisite for LG101 Communication Skills in English?,0.696
+sft_0065,Is Turkish Language compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.695
+sft_0005,What do I need before taking CIs436?,24,what do i need before database applications?,0.692
+sft_0033,What do I need before taking CIs492?,24,what do i need before database applications?,0.692
+sft_0154,What is the course code for Oral & Dental Health?,11,What is the course code for Mobile Application Development?,0.692
+sft_0169,What is the course code for Basic German Language?,11,What is the course code for Mobile Application Development?,0.692
+sft_0241,What do I need before taking CIs476?,24,what do i need before database applications?,0.692
+sft_0267,What do I need before taking HSS251?,24,what do i need before database applications?,0.692
+sft_0284,Which requirement group does HSS130 Digital Skills belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.692
+sft_0299,What do I need before taking HSS130?,24,what do i need before database applications?,0.692
+sft_0431,What do I need before taking HSS119?,24,what do i need before database applications?,0.692
+sft_0447,What do I need before taking CIs491?,24,what do i need before database applications?,0.692
+sft_0452,What do I need before taking CIs454?,24,what do i need before database applications?,0.692
+sft_0485,What do I need before taking HSS126?,24,what do i need before database applications?,0.692
+sft_0521,What do I need before taking HSS132?,24,what do i need before database applications?,0.692
+sft_0751,Which requirement group does HSS101MATH Calculus I belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.692
+sft_0756,What do I need before taking HSS131?,24,what do i need before database applications?,0.692
+sft_0769,What do I need before taking CIs413?,24,what do i need before database applications?,0.692
+sft_0636,How many credit hours is Media and Information Literacy?,6,How many credit hours is Mobile Application Development?,0.691
+sft_0816,What are the prerequisites for CIs432 Enterprise Information Systems?,17,What are the prerequisites for CIs381 Mobile Application Development?,0.691
+sft_0661,What is the course code for Appreciation of Literary Texts?,11,What is the course code for Mobile Application Development?,0.69
+sft_0732,What is the course code for Geographic Information Systems?,11,What is the course code for Mobile Application Development?,0.69
+sft_0813,how many hours is road safety?,12,how many hours is data mining?,0.69
+sft_0364,Is Life Skills compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.689
+sft_0573,Which requirement group does CIs271 Managment Information Systems belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.689
+sft_0819,how many hours is sociology (in english)?,12,how many hours is data mining?,0.687
+sft_0432,Is E-business Applications compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.686
+sft_0592,how many hours is health information systems?,12,how many hours is data mining?,0.685
+sft_0714,How many credit hours is Economic System in Islam?,27,How many credit hours is the whole plan?,0.682
+sft_0121,What are the prerequisites for CIs452 Business Planning and Control?,17,What are the prerequisites for CIs381 Mobile Application Development?,0.681
+sft_0397,Which requirement group does HSS109NUR Family Health belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.681
+sft_0589,Which requirement group does CIs442 Network Security belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.681
+sft_0161,Which requirement group does HSS231 History of Sciences in Islam belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.68
+sft_0427,Which requirement group does HSS119 Entrepreneurship and Innovation belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.68
+sft_0571,What is the course code for Spanish Language?,15,what's the course code for data warehousing and big data?,0.68
+sft_0037,Is International Global Issues compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.679
+sft_0528,What is the course code for Sociology (in English)?,11,What is the course code for Mobile Application Development?,0.679
+sft_0559,What is the course code for Entrepreneurship and Innovation?,15,what's the course code for data warehousing and big data?,0.678
+sft_0666,What are the prerequisites for HSS101MATH Calculus I?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.678
+sft_0749,What is the course code for Business Planning and Control?,11,What is the course code for Mobile Application Development?,0.678
+sft_0463,What are the prerequisites for HSS216 International Global Issues?,17,What are the prerequisites for CIs381 Mobile Application Development?,0.677
+sft_0176,how many hours is it project management?,12,how many hours is data mining?,0.676
+sft_0001,What do I need before taking HSS102ME?,24,what do i need before database applications?,0.675
+sft_0063,What do I need before taking HSS104PH?,24,what do i need before database applications?,0.675
+sft_0237,What do I need before taking HSS207NR?,24,what do i need before database applications?,0.675
+sft_0262,What do I need before taking HSS212VM?,24,what do i need before database applications?,0.675
+sft_0331,What do I need before taking HSS214VM?,24,what do i need before database applications?,0.675
+sft_0374,What do I need before taking LG106?,24,what do i need before database applications?,0.675
+sft_0609,What do I need before taking HSS200AP?,24,what do i need before database applications?,0.675
+sft_0638,What do I need before taking HSS200NE?,24,what do i need before database applications?,0.675
+sft_0771,What do I need before taking HSS211VM?,24,what do i need before database applications?,0.675
+sft_0433,Is Calculus 2 compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.674
+sft_0658,How many credit hours is Individual and Society?,27,How many credit hours is the whole plan?,0.674
+sft_0163,Is Ourism and Museums in Jordan compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.673
+sft_0246,Is Educational Technology compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.673
+sft_0255,Is Entrepreneurship and Innovation compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.673
+sft_0632,Is Islam and Recent Problems compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.673
+sft_0637,Is Financial Accountng Analysis compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.673
+sft_0358,Which requirement group does HSS137 Human Rights belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.672
+sft_0713,does fundamentals of information systems have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.672
+sft_0080,Which requirement group does HSS132 The History of the City of Jerusalem belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.671
+sft_0140,Which requirement group does HSS161 Contemporary Problems belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.671
+sft_0216,Which requirement group does HSS103 The Palestinian Issue belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.671
+sft_0292,Which requirement group does HSS106CS Introduction to Programming Lab belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.671
+sft_0319,How many credit hours is Principles of Sociology?,7,How many credit hours is Introduction to Web Design?,0.667
+sft_0583,does basic french language have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.667
+sft_0634,How many credit hours is Business Planning and Control?,27,How many credit hours is the whole plan?,0.667
+sft_0722,does oral & dental health have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.667
+sft_0413,What is the course code for Beekeeping (for Non Plant Production Students)?,11,What is the course code for Mobile Application Development?,0.662
+sft_0515,I have passed HSS221CIS. Can I take CIs338 next semester?,26,I only took HSS112SE. Can I register for CIs381 next semester?,0.661
+sft_0742,What is the course code for Business Process Managment?,11,What is the course code for Mobile Application Development?,0.661
+sft_0764,What are the prerequisites for HSS137 Human Rights?,17,What are the prerequisites for CIs381 Mobile Application Development?,0.661
+sft_0193,What is the course code for Calculus 2?,15,what's the course code for data warehousing and big data?,0.66
+sft_0375,How many credit hours is Enterprise Information Systems?,7,How many credit hours is Introduction to Web Design?,0.66
+sft_0568,Which requirement group does CIs434 Security Analytics belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.657
+sft_0004,What is the course code for Community Health and Nutrition?,11,What is the course code for Mobile Application Development?,0.655
+sft_0214,I have passed HSS221CIS and CIs131. Can I register for CIs338?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.655
+sft_0229,I have passed HSS221CIS and CIs131. Can I register for CIs437?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.655
+sft_0342,What is the course code for Islam and Contemporary Challenges?,11,What is the course code for Mobile Application Development?,0.655
+sft_0747,How many credit hours is Managment Information Systems?,14,how many credit hours is communication and professional ethics?,0.655
+sft_0046,I have passed HSS211CS. Can I register for CIs435?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.654
+sft_0361,What is the course code for Practical Training?,11,What is the course code for Mobile Application Development?,0.654
+sft_0558,does principles of sociology have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.654
+sft_0672,I have passed HSS211CS. Can I register for CIs475?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.654
+sft_0825,I have passed HSS211CS. Can I register for CIs441?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.654
+sft_0156,What is the course code for Digital Skills?,15,what's the course code for data warehousing and big data?,0.653
+sft_0535,What do I need before taking HSS113SE?,24,what do i need before database applications?,0.65
+sft_0362,Which requirement group does CIs452 Business Planning and Control belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.649
+sft_0323,Is Business Planning and Control compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.648
+sft_0488,What is the course code for Economic System in Islam?,15,what's the course code for data warehousing and big data?,0.648
+sft_0074,how many hours is security analytics?,12,how many hours is data mining?,0.646
+sft_0616,Is Parallel Programming compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.646
+sft_0338,does animal behaviour and welfare have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.643
+sft_0473,does history of sciences in islam have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.643
+sft_0525,What is the course code for Introduction to Programming Lab?,15,what's the course code for data warehousing and big data?,0.643
+sft_0674,I have passed HSS221CIS. Can I take CIs437 next semester?,26,I only took HSS112SE. Can I register for CIs381 next semester?,0.643
+sft_0146,Which requirement group does LG108 Turkish Language belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.642
+sft_0317,Which requirement group does HSS100P.T Wellness and Life Styles (not for Physical & Occupational Therapy) belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.641
+sft_0679,I have passed HSS211CS. Can I register for SE230?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.641
+sft_0659,how many hours is ourism and museums in jordan?,12,how many hours is data mining?,0.64
+sft_0136,What is the course code for Privacy of Healthcare Information?,11,What is the course code for Mobile Application Development?,0.639
+sft_0388,How many credit hours is Leader and Social Responsibility?,14,how many credit hours is communication and professional ethics?,0.639
+sft_0551,What are the prerequisites for LG108 Turkish Language?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.638
+sft_0830,Which requirement group does ES103 Sustainable Development and Environment belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.637
+sft_0398,What are the prerequisites for CIs431 Decision Support Systems and Intelligent Systems?,17,What are the prerequisites for CIs381 Mobile Application Development?,0.636
+sft_0673,Is History of Sciences in Islam compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.636
+sft_0796,I have passed HSS112SE. Can I register for SE210?,26,I only took HSS112SE. Can I register for CIs381 next semester?,0.636
+sft_0560,What are the prerequisites for CY101 Cybersecurity Fundamentals?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.635
+sft_0849,how many hours is network security?,12,how many hours is data mining?,0.635
+sft_0020,does basic skills in the chinese language have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.633
+sft_0437,What are the prerequisites for HSS101CS Introduction to Programming?,18,What is the prerequisite for LG101 Communication Skills in English?,0.632
+sft_0456,What is the course code for Selected Programming Languages?,15,what's the course code for data warehousing and big data?,0.632
+sft_0707,Is Network Security compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.632
+sft_0827,How many credit hours is Entrepreneurship and Innovation?,27,How many credit hours is the whole plan?,0.632
+sft_0471,Is Leader and Social Responsibility compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.631
+sft_0245,I have passed HSS221CIS. Can I register for CIs412?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.629
+sft_0049,What is the course code for Fundamentals of Information Systems?,11,What is the course code for Mobile Application Development?,0.628
+sft_0196,What are the prerequisites for HSS153 Islam and Contemporary Challenges?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.627
+sft_0088,Is Basic Skills in the Chinese Language compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.626
+sft_0650,How many credit hours is Fundamentals of Information Systems?,14,how many credit hours is communication and professional ethics?,0.623
+sft_0712,does principles of modern operating systems have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.623
+sft_0069,does civilization and recent cultures have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.621
+sft_0606,how many hours is principles of psychology?,12,how many hours is data mining?,0.62
+sft_0693,does java programming have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.62
+sft_0097,Which requirement group does CIs411 Advanced Web Application Development belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.619
+sft_0164,I haven't taken any courses yet. Can I register for CIs414?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.619
+sft_0170,I haven't taken any courses yet. Can I register for CIs452?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.619
+sft_0177,I haven't taken any courses yet. Can I register for CIs453?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.619
+sft_0228,I haven't taken any courses yet. Can I register for CIs432?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.619
+sft_0236,I haven't taken any courses yet. Can I register for CIs411?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.619
+sft_0261,I haven't taken any courses yet. Can I register for CIs412?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.619
+sft_0264,I haven't taken any courses yet. Can I register for CIs438?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.619
+sft_0315,I haven't taken any courses yet. Can I register for CIs441?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.619
+sft_0391,I haven't taken any courses yet. Can I register for CIs436?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.619
+sft_0469,I haven't taken any courses yet. Can I register for CIs434?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.619
+sft_0493,I haven't taken any courses yet. Can I register for CIs431?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.619
+sft_0595,I haven't taken any courses yet. Can I register for CIs475?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.619
+sft_0644,I haven't taken any courses yet. Can I register for CIs413?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.619
+sft_0655,does family health have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.619
+sft_0737,I haven't taken any courses yet. Can I register for CIs451?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.619
+sft_0770,I haven't taken any courses yet. Can I register for CIs492?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.619
+sft_0808,I haven't taken any courses yet. Can I register for CIs271?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.619
+sft_0820,I haven't taken any courses yet. Can I register for CIs471?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.619
+sft_0837,I haven't taken any courses yet. Can I register for CIs435?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.619
+sft_0840,I haven't taken any courses yet. Can I register for CIs457?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.619
+sft_0850,I haven't taken any courses yet. Can I register for CIs476?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.619
+sft_0524,What is the course code for Principles of Psychology?,11,What is the course code for Mobile Application Development?,0.618
+sft_0326,Which requirement group does CIs437 Geographic Information Systems belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.617
+sft_0442,Which requirement group does CIs453 Accounting Information Systems belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.617
+sft_0503,Which requirement group does HSS191CHE Introduction to the Nanotechnology belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.615
+sft_0467,does media and information literacy have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.614
+sft_0587,What is the course code for History of Sciences in Islam?,11,What is the course code for Mobile Application Development?,0.614
+sft_0710,Is Basic Skills in the Korean Language compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.614
+sft_0251,how many hours is history of sciences in islam?,12,how many hours is data mining?,0.613
+sft_0209,does it project management have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.61
+sft_0844,What is the course code for Contemporary Problems?,15,what's the course code for data warehousing and big data?,0.61
+sft_0252,What is the course code for Network Security?,11,What is the course code for Mobile Application Development?,0.608
+sft_0059,I haven't taken any courses yet. Can I register for SE210?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.607
+sft_0356,I haven't taken any courses yet. Can I register for SE230?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.607
+sft_0570,I haven't taken any courses yet. Can I register for SE412?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.607
+sft_0015,Which course is LG103?,21,Which course is listed as equivalent to LG101?,0.606
+sft_0194,Which course is LG104?,21,Which course is listed as equivalent to LG101?,0.606
+sft_0201,Is Geographic Information Systems compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.606
+sft_0457,Is Selected Programming Languages compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.606
+sft_0506,Is Communication Skills in Arabic compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.606
+sft_0023,how many hours is business process managment?,14,how many credit hours is communication and professional ethics?,0.604
+sft_0075,does educational technology have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.604
+sft_0363,I have passed HSS233MATH. Can I take CIs454 next semester?,26,I only took HSS112SE. Can I register for CIs381 next semester?,0.603
+sft_0172,I haven't taken any courses yet. Can I register for CIs335?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.602
+sft_0791,Is Principles of Psychology compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.602
+sft_0835,does natural plants of jordan (for non agriculture students) have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.599
+sft_0468,I have passed HSS233MATH and CIs332. Can I register for CIs454?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.598
+sft_0104,Which course is HSS161?,21,Which course is listed as equivalent to LG101?,0.597
+sft_0125,Which course is HSS117?,21,Which course is listed as equivalent to LG101?,0.597
+sft_0390,Which course is CIs411?,21,Which course is listed as equivalent to LG101?,0.597
+sft_0544,how many hours is appreciation of literary texts?,12,how many hours is data mining?,0.597
+sft_0668,Which course is HSS130?,21,Which course is listed as equivalent to LG101?,0.597
+sft_0851,Which course is HSS115?,21,Which course is listed as equivalent to LG101?,0.597
+sft_0675,What is the credit hour count of CIs451 E-business Applications?,11,What is the course code for Mobile Application Development?,0.595
+sft_0450,Is Security Analytics taught on campus or online?,13,is systems analysis and design compulsory or elective?,0.594
+sft_0182,How many credit hours is Special Topics in Computer Information Systems(1)?,14,how many credit hours is communication and professional ethics?,0.593
+sft_0359,what's the code of information retrieval?,11,What is the course code for Mobile Application Development?,0.592
+sft_0623,Which course is HSS101MATH?,21,Which course is listed as equivalent to LG101?,0.592
+sft_0496,does contemporary problems have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.59
+sft_0217,how many hours is sustainable development and environment?,6,How many credit hours is Mobile Application Development?,0.589
+sft_0404,Is Privacy of Healthcare Information compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.589
+sft_0728,I have passed CIs441. Can I take CIs442 next semester?,26,I only took HSS112SE. Can I register for CIs381 next semester?,0.589
+sft_0781,I haven't taken any courses yet. Can I register for CY101?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.589
+sft_0042,I have passed CIs321. Can I register for CIs414?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.588
+sft_0045,I have passed CIs131. Can I register for CIs453?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.588
+sft_0070,I have passed CIs338. Can I register for CIs436?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.588
+sft_0198,I have passed CIs431. Can I register for CIs438?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.588
+sft_0232,I have passed CIs381. Can I register for CIs413?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.588
+sft_0243,I have passed CIs491. Can I register for CIs492?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.588
+sft_0307,What must I study before Digital Marketing?,24,what do i need before database applications?,0.588
+sft_0365,I have passed CIs271. Can I register for CIs432?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.588
+sft_0430,I have passed CIs441. Can I register for CIs476?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.588
+sft_0466,I have passed CIs271. Can I register for CIs452?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.588
+sft_0505,Is English Skills in Information Technology compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.588
+sft_0522,I have passed CIs433. Can I register for CIs434?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.588
+sft_0594,I have passed CIs341. Can I register for CIs457?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.588
+sft_0653,I have passed CIs321. Can I register for CIs431?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.588
+sft_0699,I have passed CIs341. Can I register for CIs411?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.588
+sft_0755,I have passed CIs321. Can I register for CIs471?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.588
+sft_0794,I have passed CIs341. Can I register for CIs451?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.588
+sft_0802,I have passed CIs131. Can I register for CIs271?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.588
+sft_0581,how many hours is animal behaviour and welfare?,12,how many hours is data mining?,0.587
+sft_0614,Which requirement group does CIs431 Decision Support Systems and Intelligent Systems belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.587
+sft_0305,What is the equivalent course of LG103 Life Skills?,18,What is the prerequisite for LG101 Communication Skills in English?,0.586
+sft_0415,is there an equivalent for HSS101MATH?,21,Which course is listed as equivalent to LG101?,0.585
+sft_0417,What must I study before The Palestinian Issue?,24,what do i need before database applications?,0.584
+sft_0534,I haven't taken any courses yet. Can I register for HSS130?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.584
+sft_0736,Is Introduction to the Nanotechnology compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.584
+sft_0389,what's the code of financial accountng analysis?,15,what's the course code for data warehousing and big data?,0.583
+sft_0087,I have passed HSS101MATH. Can I register for HSS102MATH?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.582
+sft_0619,I haven't taken any courses yet. Can I register for HSS233MATH?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.581
+sft_0726,What must I study before Security Analytics?,24,what do i need before database applications?,0.581
+sft_0772,I haven't taken any courses yet. Can I register for HSS102MATH?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.581
+sft_0119,Is Information Retrieval compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.58
+sft_0149,Which course is HSS201PP?,21,Which course is listed as equivalent to LG101?,0.58
+sft_0451,Which course is HSS102SE?,21,Which course is listed as equivalent to LG101?,0.58
+sft_0563,Which course is HSS113SE?,21,Which course is listed as equivalent to LG101?,0.58
+sft_0421,I have passed HSS102MATH. Can I register for HSS233MATH?,26,I only took HSS112SE. Can I register for CIs381 next semester?,0.579
+sft_0444,What must I study before Managment Information Systems?,24,what do i need before database applications?,0.577
+sft_0032,Which course is SE412?,21,Which course is listed as equivalent to LG101?,0.576
+sft_0067,Which course is SE230?,21,Which course is listed as equivalent to LG101?,0.576
+sft_0716,How many credit hours is Principles of Modern Operating Systems?,6,How many credit hours is Mobile Application Development?,0.576
+sft_0839,Which course is CY101?,21,Which course is listed as equivalent to LG101?,0.576
+sft_0179,is there an equivalent for HSS211VM?,21,Which course is listed as equivalent to LG101?,0.575
+sft_0200,is there an equivalent for HSS113SE?,21,Which course is listed as equivalent to LG101?,0.575
+sft_0704,is there an equivalent for HSS102ME?,21,Which course is listed as equivalent to LG101?,0.575
+sft_0482,does calculus 2 have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.574
+sft_0665,What must I study before Health Information Systems?,24,what do i need before database applications?,0.574
+sft_0725,I have passed CIs321. Can I register for SE412?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.574
+sft_0025,"How many credit hours is Health Promotion (for Non Medicine ,nursing and Midwifery Students)?",7,How many credit hours is Introduction to Web Design?,0.571
+sft_0072,Which course is HSS100NUR?,21,Which course is listed as equivalent to LG101?,0.571
+sft_0137,does ourism and museums in jordan have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.571
+sft_0148,What must I study before Geographic Information Systems?,24,what do i need before database applications?,0.571
+sft_0347,Which course is HSS100ADS?,21,Which course is listed as equivalent to LG101?,0.571
+sft_0508,what's the code of java programming?,15,what's the course code for data warehousing and big data?,0.571
+sft_0761,Which requirement group does HSS200NE Principles in Nuclear Energy and Its Peaceful Applications belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.57
+sft_0095,What is the credit hour count of LG103 Life Skills?,18,What is the prerequisite for LG101 Communication Skills in English?,0.569
+sft_0545,I have passed CIs332. Can I register for CIs335?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.569
+sft_0084,what's the code of deep learning?,15,what's the course code for data warehousing and big data?,0.568
+sft_0337,is there an equivalent for HSS100NUR?,21,Which course is listed as equivalent to LG101?,0.568
+sft_0373,is there an equivalent for HSS109NUR?,21,Which course is listed as equivalent to LG101?,0.568
+sft_0402,is there an equivalent for HSS100O.T?,21,Which course is listed as equivalent to LG101?,0.568
+sft_0409,What must I study before Deep Learning?,24,what do i need before database applications?,0.568
+sft_0188,Which course is HSS126?,21,Which course is listed as equivalent to LG101?,0.567
+sft_0199,Which course is HSS231?,21,Which course is listed as equivalent to LG101?,0.567
+sft_0309,Which course is CIs413?,21,Which course is listed as equivalent to LG101?,0.567
+sft_0349,does advanced web application development have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.567
+sft_0541,Is Advanced Mobile Application Development taught on campus or online?,11,What is the course code for Mobile Application Development?,0.567
+sft_0708,Which course is CIs391?,21,Which course is listed as equivalent to LG101?,0.567
+sft_0797,how many hours is introduction to renewable energy (for non mechanical engineering students)?,7,How many credit hours is Introduction to Web Design?,0.567
+sft_0670,does individual and society have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.566
+sft_0833,does islamic culture have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.566
+sft_0743,Is Plant Earth Problems & Solutions (for Non Agriculture Students) compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.565
+sft_0498,is there an equivalent for CIs391?,21,Which course is listed as equivalent to LG101?,0.564
+sft_0685,Is Principles of Modern Operating Systems compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.564
+sft_0484,Which requirement group does CIs493 Special Topics in Computer Information Systems(1) belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.563
+sft_0041,How many students can register in CIs338?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.562
+sft_0205,does wellness and life styles (not for physical & occupational therapy) have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.562
+sft_0509,What is the credit hour count of HSS191CHE Introduction to the Nanotechnology?,7,How many credit hours is Introduction to Web Design?,0.562
+sft_0567,How many students can register in CIs452?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.562
+sft_0608,Is Probability & Statistics (for Computer Sciences Students) compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.561
+sft_0219,what course has the code LG107?,21,Which course is listed as equivalent to LG101?,0.56
+sft_0384,what's the code of data communication and computer networks?,18,What is the prerequisite for LG101 Communication Skills in English?,0.56
+sft_0419,what course has the code LG105?,21,Which course is listed as equivalent to LG101?,0.56
+sft_0777,what course has the code LG106?,21,Which course is listed as equivalent to LG101?,0.56
+sft_0799,what course has the code LG109?,21,Which course is listed as equivalent to LG101?,0.56
+sft_0381,What is the equivalent course of CIs438 Deep Learning?,11,What is the course code for Mobile Application Development?,0.559
+sft_0625,How many students can register in LG105?,12,how many hours is data mining?,0.559
+sft_0044,Which textbook edition is the cheapest for Sociology (in English)?,18,What is the prerequisite for LG101 Communication Skills in English?,0.558
+sft_0083,what's the code of individual and society?,15,what's the course code for data warehousing and big data?,0.557
+sft_0187,what's the code of music tasting?,11,What is the course code for Mobile Application Development?,0.556
+sft_0335,what's the code of pet animal care?,15,what's the course code for data warehousing and big data?,0.556
+sft_0366,what's the code of family health?,11,What is the course code for Mobile Application Development?,0.556
+sft_0167,What is the credit hour count of CIs435 Information Retrieval?,11,What is the course code for Mobile Application Development?,0.555
+sft_0268,What are the prerequisites for HSS200PP Home Gardens (for Non Plant Production and Soil and Irrigation Students)?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.555
+sft_0147,How much does one credit hour of CIs391 cost?,27,How many credit hours is the whole plan?,0.554
+sft_0718,I have passed CIs332. Can I register for CY101?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.554
+sft_0028,Where is Communication Skills in Arabic in the study plan?,18,What is the prerequisite for LG101 Communication Skills in English?,0.553
+sft_0387,what's the code of media and information literacy?,15,what's the course code for data warehousing and big data?,0.552
+sft_0477,What is the course code for Plant Earth Problems & Solutions (for Non Agriculture Students)?,11,What is the course code for Mobile Application Development?,0.552
+sft_0688,How much does one credit hour of HSS233MATH cost?,27,How many credit hours is the whole plan?,0.552
+sft_0007,What must I study before Appreciation of Literary Texts?,24,what do i need before database applications?,0.551
+sft_0029,How many credit hours is Disability and the Society(not Allowed for Rehabilition Science Dep.students)?,6,How many credit hours is Mobile Application Development?,0.551
+sft_0183,Which course is HSS200NR?,21,Which course is listed as equivalent to LG101?,0.551
+sft_0192,Which course is HSS200PP?,21,Which course is listed as equivalent to LG101?,0.551
+sft_0341,what's the code of it project management?,11,What is the course code for Mobile Application Development?,0.551
+sft_0757,Which course is HSS200AP?,21,Which course is listed as equivalent to LG101?,0.551
+sft_0100,Is Home Gardens (for Non Plant Production and Soil and Irrigation Students) compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.55
+sft_0435,is there an equivalent for HSS212VM?,21,Which course is listed as equivalent to LG101?,0.55
+sft_0702,Is Appreciation of Literary Texts compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.55
+sft_0703,Which code does Advanced Web Application Development have in the CIS plan?,11,What is the course code for Mobile Application Development?,0.55
+sft_0746,is there an equivalent for HSS207NR?,21,Which course is listed as equivalent to LG101?,0.55
+sft_0803,is there an equivalent for HSS200PP?,21,Which course is listed as equivalent to LG101?,0.55
+sft_0117,What is the equivalent course of CIs457 Digital Marketing?,15,what's the course code for data warehousing and big data?,0.549
+sft_0720,I have passed CIs099. Can I register for HSS130?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.549
+sft_0828,Which requirement group does HSS211VM Animal Health (not for Veterinary Medical and Agriculture Students) belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.548
+sft_0162,"What is the course code for Food Preservation ""in English"" (for Non Nutrition and Food Technology Students)?",11,What is the course code for Mobile Application Development?,0.547
+sft_0143,What is the credit hour count of HSS136 The Law in Our Life?,18,What is the prerequisite for LG101 Communication Skills in English?,0.544
+sft_0752,what course has the code ARB102?,27,How many credit hours is the whole plan?,0.543
+sft_0107,What is the credit hour count of CIs492 Graduation Project 2?,11,What is the course code for Mobile Application Development?,0.542
+sft_0497,What is the credit hour count of CIs491 Graduation Project 1?,11,What is the course code for Mobile Application Development?,0.542
+sft_0291,what's the code of calculus i?,15,what's the course code for data warehousing and big data?,0.541
+sft_0394,What is the credit hour count of HSS216 International Global Issues?,18,What is the prerequisite for LG101 Communication Skills in English?,0.541
+sft_0173,is there an equivalent for CIs335?,21,Which course is listed as equivalent to LG101?,0.538
+sft_0181,what's the code of security analytics?,15,what's the course code for data warehousing and big data?,0.538
+sft_0502,is there an equivalent for CIs475?,21,Which course is listed as equivalent to LG101?,0.538
+sft_0569,is there an equivalent for CIs434?,21,Which course is listed as equivalent to LG101?,0.538
+sft_0631,Which code does Life Skills have in the CIS plan?,21,Which course is listed as equivalent to LG101?,0.538
+sft_0778,is there an equivalent for CIs435?,21,Which course is listed as equivalent to LG101?,0.538
+sft_0017,Which course is CIs437?,21,Which course is listed as equivalent to LG101?,0.537
+sft_0021,Which course is CIs434?,21,Which course is listed as equivalent to LG101?,0.537
+sft_0239,Which course is CIs438?,21,Which course is listed as equivalent to LG101?,0.537
+sft_0416,Which course is CIs495?,21,Which course is listed as equivalent to LG101?,0.537
+sft_0418,Which course is CIs493?,21,Which course is listed as equivalent to LG101?,0.537
+sft_0472,Which course is CIs432?,21,Which course is listed as equivalent to LG101?,0.537
+sft_0646,Which course is CIs435?,21,Which course is listed as equivalent to LG101?,0.537
+sft_0798,Which course is CIs338?,21,Which course is listed as equivalent to LG101?,0.537
+sft_0618,What is the credit hour count of HSS115 Islam and Recent Problems?,18,What is the prerequisite for LG101 Communication Skills in English?,0.534
+sft_0053,What is the course code for Natural Resources and Human(for Non Plant Production and Soil and Irrigation Students)?,15,what's the course code for data warehousing and big data?,0.533
+sft_0818,what's the code of accounting information systems?,15,what's the course code for data warehousing and big data?,0.533
+sft_0370,How many students can register in HSS213VM?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.531
+sft_0549,What is the equivalent course of HSS213VM Animal Behaviour and Welfare?,11,What is the course code for Mobile Application Development?,0.531
+sft_0584,I have passed CIs433 and CIs441. Can I register for CIs442?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.531
+sft_0260,What must I study before The Law in Our Life?,24,what do i need before database applications?,0.529
+sft_0760,What is the credit hour count of CIs437 Geographic Information Systems?,18,What is the prerequisite for LG101 Communication Skills in English?,0.529
+sft_0273,what course has the code HSS177NF?,27,How many credit hours is the whole plan?,0.528
+sft_0372,What must I study before Introduction to the Nanotechnology?,7,How many credit hours is Introduction to Web Design?,0.527
+sft_0011,what's the code of parallel programming?,15,what's the course code for data warehousing and big data?,0.526
+sft_0230,how many hours is decision support systems and intelligent systems?,12,how many hours is data mining?,0.526
+sft_0184,What is the credit hour count of HSS131 Islamic Civilization?,11,What is the course code for Mobile Application Development?,0.525
+sft_0018,What must I study before Spanish Language?,24,what do i need before database applications?,0.524
+sft_0101,what's the code of introduction to the nanotechnology?,11,What is the course code for Mobile Application Development?,0.523
+sft_0678,What must I study before Introduction to Programming Lab?,7,How many credit hours is Introduction to Web Design?,0.523
+sft_0298,How many students can register in HSS136?,12,how many hours is data mining?,0.522
+sft_0355,what course has the code MS100?,27,How many credit hours is the whole plan?,0.522
+sft_0626,What must I study before Financial Accountng Analysis?,24,what do i need before database applications?,0.521
+sft_0082,How much does one credit hour of HSS161 cost?,3,How many Faculty Compulsory credit hours are in the plan?,0.52
+sft_0223,How much does one credit hour of HSS137 cost?,3,How many Faculty Compulsory credit hours are in the plan?,0.52
+sft_0598,How much does one credit hour of HSS110 cost?,3,How many Faculty Compulsory credit hours are in the plan?,0.52
+sft_0079,What are the prerequisites for HSS200NR Natural Resources and Human(for Non Plant Production and Soil and Irrigation Students)?,17,What are the prerequisites for CIs381 Mobile Application Development?,0.518
+sft_0483,How much does one credit hour of HSS207NR cost?,27,How many credit hours is the whole plan?,0.518
+sft_0160,What must I study before Information Retrieval?,24,what do i need before database applications?,0.517
+sft_0114,What is the equivalent course of CIs432 Enterprise Information Systems?,11,What is the course code for Mobile Application Development?,0.516
+sft_0126,does english skills in information technology have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.516
+sft_0396,does data communication and computer networks have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.516
+sft_0599,what's the code of introduction to programming?,7,How many credit hours is Introduction to Web Design?,0.515
+sft_0016,what course has the code HSS135?,27,How many credit hours is the whole plan?,0.514
+sft_0027,what course has the code CIs471?,27,How many credit hours is the whole plan?,0.514
+sft_0071,what course has the code HSS110?,27,How many credit hours is the whole plan?,0.514
+sft_0076,what course has the code HSS136?,27,How many credit hours is the whole plan?,0.514
+sft_0098,what course has the code HSS103?,27,How many credit hours is the whole plan?,0.514
+sft_0139,what course has the code HSS251?,27,How many credit hours is the whole plan?,0.514
+sft_0191,what course has the code CIs475?,27,How many credit hours is the whole plan?,0.514
+sft_0322,what course has the code CIs131?,27,How many credit hours is the whole plan?,0.514
+sft_0328,what course has the code CIs436?,27,How many credit hours is the whole plan?,0.514
+sft_0333,what course has the code HSS121?,27,How many credit hours is the whole plan?,0.514
+sft_0410,what course has the code CIs451?,27,How many credit hours is the whole plan?,0.514
+sft_0412,what course has the code HSS133?,27,How many credit hours is the whole plan?,0.514
+sft_0443,what course has the code HSS216?,27,How many credit hours is the whole plan?,0.514
+sft_0475,what course has the code CIs441?,27,How many credit hours is the whole plan?,0.514
+sft_0539,what course has the code HSS104?,27,How many credit hours is the whole plan?,0.514
+sft_0546,what course has the code HSS213?,27,How many credit hours is the whole plan?,0.514
+sft_0591,what course has the code CIs454?,27,How many credit hours is the whole plan?,0.514
+sft_0603,what course has the code CIs431?,27,How many credit hours is the whole plan?,0.514
+sft_0610,what course has the code CIs271?,27,How many credit hours is the whole plan?,0.514
+sft_0624,what course has the code CIs476?,27,How many credit hours is the whole plan?,0.514
+sft_0660,what course has the code HSS233MATH?,27,How many credit hours is the whole plan?,0.514
+sft_0664,what course has the code CIs453?,27,How many credit hours is the whole plan?,0.514
+sft_0669,what course has the code HSS105?,27,How many credit hours is the whole plan?,0.514
+sft_0763,what course has the code CIs414?,27,How many credit hours is the whole plan?,0.514
+sft_0612,what course has the code HSS101CS?,21,Which course is listed as equivalent to LG101?,0.513
+sft_0647,What is the credit hour count of HSS135 Islamic Culture?,18,What is the prerequisite for LG101 Communication Skills in English?,0.512
+sft_0697,Is Military Sciences taught on campus or online?,23,is multimedia for web design compulsory?,0.512
+sft_0313,What is the credit hour count of SE230 Fundamentals of Software Engineering?,18,What is the prerequisite for LG101 Communication Skills in English?,0.511
+sft_0555,what's the code of cloud computing?,15,what's the course code for data warehousing and big data?,0.511
+sft_0711,What must I study before Selected Programming Languages?,24,what do i need before database applications?,0.51
+sft_0740,What must I study before Accounting Information Systems?,24,what do i need before database applications?,0.51
+sft_0224,what's the code of managment information systems?,11,What is the course code for Mobile Application Development?,0.509
+sft_0464,Is E-business Applications taught on campus or online?,13,is systems analysis and design compulsory or elective?,0.509
+sft_0682,Is Introduction to Object- Oriented Programming Lab compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.508
+sft_0741,What time is the CIs441 lecture?,28,Who teaches CIs381 this semester?,0.508
+sft_0120,What must I study before Life Skills?,24,what do i need before database applications?,0.506
+sft_0270,what's the code of enterprise information systems?,11,What is the course code for Mobile Application Development?,0.505
+sft_0344,How many students can register in HSS191CHE?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.505
+sft_0597,what's the code of decision support systems and intelligent systems?,15,what's the course code for data warehousing and big data?,0.504
+sft_0651,What is the equivalent course of CIs442 Network Security?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.504
+sft_0748,What is the equivalent course of CY101 Cybersecurity Fundamentals?,18,What is the prerequisite for LG101 Communication Skills in English?,0.504
+sft_0013,Is The Palestinian Issue taught on campus or online?,13,is systems analysis and design compulsory or elective?,0.5
+sft_0050,Is Advanced Web Application Development taught on campus or online?,11,What is the course code for Mobile Application Development?,0.5
+sft_0123,How is CIs271 taught?,28,Who teaches CIs381 this semester?,0.5
+sft_0152,How is CIs453 taught?,28,Who teaches CIs381 this semester?,0.5
+sft_0165,What must I study before Beekeeping (for Non Plant Production Students)?,24,what do i need before database applications?,0.5
+sft_0254,does special topics in computer information systems(3) have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.5
+sft_0281,does special topics in computer information systems(2) have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.5
+sft_0289,What must I study before Leader and Social Responsibility?,24,what do i need before database applications?,0.5
+sft_0360,How is CIs491 taught?,28,Who teaches CIs381 this semester?,0.5
+sft_0481,Is Farm Animal Products (for Non Animal Production and Nutrition and Food Technology Students) compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.5
+sft_0533,How many credit hours is Animal Health (not for Veterinary Medical and Agriculture Students)?,14,how many credit hours is communication and professional ethics?,0.5
+sft_0565,what course has the code HSS214VM?,27,How many credit hours is the whole plan?,0.5
+sft_0607,How is CIs412 taught?,28,Who teaches CIs381 this semester?,0.5
+sft_0656,what course has the code HSS213VM?,27,How many credit hours is the whole plan?,0.5
+sft_0701,what course has the code HSS106CS?,27,How many credit hours is the whole plan?,0.5
+sft_0727,"Which requirement group does HSS177NF Food Preservation ""in English"" (for Non Nutrition and Food Technology Students) belong to?",8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.5
+sft_0276,What is the credit hour count of LG108 Turkish Language?,18,What is the prerequisite for LG101 Communication Skills in English?,0.496
+sft_0590,what's the code of english skills in information technology?,11,What is the course code for Mobile Application Development?,0.496
+sft_0834,Is Community Health and Nutrition taught on campus or online?,13,is systems analysis and design compulsory or elective?,0.496
+sft_0048,Is Health Information Systems taught on campus or online?,13,is systems analysis and design compulsory or elective?,0.495
+sft_0206,What grade do I need to pass Business Planning and Control?,24,what do i need before database applications?,0.495
+sft_0809,What is the equivalent course of CIs131 Fundamentals of Information Systems?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.493
+sft_0787,Which requirement group does HSS200PP Home Gardens (for Non Plant Production and Soil and Irrigation Students) belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.492
+sft_0805,Where is Civilization and Recent Cultures in the study plan?,4,How many Department Compulsory credit hours are in the plan?,0.492
+sft_0266,Which code does Military Sciences have in the CIS plan?,3,How many Faculty Compulsory credit hours are in the plan?,0.491
+sft_0283,Which code does Leader and Social Responsibility have in the CIS plan?,21,Which course is listed as equivalent to LG101?,0.491
+sft_0327,What is the equivalent course of HSS102MATH Calculus 2?,15,what's the course code for data warehousing and big data?,0.491
+sft_0128,Where is Cloud Computing in the study plan?,3,How many Faculty Compulsory credit hours are in the plan?,0.49
+sft_0092,What is the equivalent course of HSS191CHE Introduction to the Nanotechnology?,11,What is the course code for Mobile Application Development?,0.489
+sft_0244,Is Decision Support Systems and Intelligent Systems taught on campus or online?,13,is systems analysis and design compulsory or elective?,0.489
+sft_0263,What is the credit hour count of CIs471 Financial Accountng Analysis?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.489
+sft_0575,"what's the code of health promotion (for non medicine ,nursing and midwifery students)?",15,what's the course code for data warehousing and big data?,0.489
+sft_0334,What is the credit hour count of CIs414 Parallel Programming?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.488
+sft_0211,does probability & statistics (for computer sciences students) have a prerequisite?,30,Can my advisor let me skip a prerequisite?,0.487
+sft_0168,Where is Islam and Recent Problems in the study plan?,4,How many Department Compulsory credit hours are in the plan?,0.486
+sft_0453,what's the code of basic skills in the korean language?,18,What is the prerequisite for LG101 Communication Skills in English?,0.483
+sft_0537,Where is Community Health and Nutrition in the study plan?,4,How many Department Compulsory credit hours are in the plan?,0.483
+sft_0721,What must I study before Special Topics in Computer Information Systems(1)?,24,what do i need before database applications?,0.483
+sft_0257,What is the credit hour count of HSS200PP Home Gardens (for Non Plant Production and Soil and Irrigation Students)?,11,What is the course code for Mobile Application Development?,0.482
+sft_0103,Which code does The Law in Our Life have in the CIS plan?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.481
+sft_0330,What must I study before Road Safety?,24,what do i need before database applications?,0.481
+sft_0470,What must I study before Fundamentals of Software Engineering?,24,what do i need before database applications?,0.481
+sft_0814,Which code does Health Information Systems have in the CIS plan?,21,Which course is listed as equivalent to LG101?,0.481
+sft_0401,What is the equivalent course of SE412 Selected Programming Languages?,15,what's the course code for data warehousing and big data?,0.48
+sft_0111,Which textbook edition is the cheapest for Graduation Project 2?,11,What is the course code for Mobile Application Development?,0.479
+sft_0422,Which textbook edition is the cheapest for Introduction to Programming?,7,How many credit hours is Introduction to Web Design?,0.479
+sft_0424,what's the code of basic skills in the chinese language?,18,What is the prerequisite for LG101 Communication Skills in English?,0.479
+sft_0786,Which code does Islam and Recent Problems have in the CIS plan?,4,How many Department Compulsory credit hours are in the plan?,0.479
+sft_0062,What must I study before Economic System in Islam?,24,what do i need before database applications?,0.478
+sft_0641,Is Geographic Information Systems taught on campus or online?,13,is systems analysis and design compulsory or elective?,0.478
+sft_0795,What must I study before Parallel Programming?,24,what do i need before database applications?,0.477
+sft_0383,What time is the CIs442 lecture?,28,Who teaches CIs381 this semester?,0.476
+sft_0783,Where is Introduction to Programming in the study plan?,7,How many credit hours is Introduction to Web Design?,0.476
+sft_0035,When is the last day to drop HSS161?,21,Which course is listed as equivalent to LG101?,0.475
+sft_0036,What must I study before Islam and Recent Problems?,16,What do I need before I can take CS284 Analysis and Design of Algorithms?,0.475
+sft_0345,What is the equivalent course of CIs431 Decision Support Systems and Intelligent Systems?,17,What are the prerequisites for CIs381 Mobile Application Development?,0.474
+sft_0518,what is the teaching method of HSS102ME?,11,What is the course code for Mobile Application Development?,0.474
+sft_0527,Which code does Sustainable Development and Environment have in the CIS plan?,4,How many Department Compulsory credit hours are in the plan?,0.474
+sft_0350,Where is Calculus 2 in the study plan?,3,How many Faculty Compulsory credit hours are in the plan?,0.473
+sft_0068,What is the email of the CIs475 coordinator?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.472
+sft_0436,Do I have to take CIs441 Data Communication and Computer Networks?,14,how many credit hours is communication and professional ethics?,0.472
+sft_0540,What is the email of the CIs436 coordinator?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.472
+sft_0511,Do I have to take HSS213 Individual and Society?,16,What do I need before I can take CS284 Analysis and Design of Algorithms?,0.471
+sft_0683,What is the credit hour count of CIs436 Privacy of Healthcare Information?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.471
+sft_0379,What is the attendance policy for CIs432?,11,What is the course code for Mobile Application Development?,0.469
+sft_0476,What is the attendance policy for HSS177NF?,15,what's the course code for data warehousing and big data?,0.469
+sft_0663,What is the attendance policy for HSS200AP?,15,what's the course code for data warehousing and big data?,0.469
+sft_0733,What is the attendance policy for CIs494?,11,What is the course code for Mobile Application Development?,0.469
+sft_0221,What is the credit hour count of HSS200NE Principles in Nuclear Energy and Its Peaceful Applications?,11,What is the course code for Mobile Application Development?,0.468
+sft_0500,what is the teaching method of SE210?,11,What is the course code for Mobile Application Development?,0.468
+sft_0715,what's the code of introduction to object- oriented programming lab?,11,What is the course code for Mobile Application Development?,0.468
+sft_0750,What is the credit hour count of CIs495 Special Topics in Computer Information Systems(3)?,18,What is the prerequisite for LG101 Communication Skills in English?,0.468
+sft_0817,Which room is The Palestinian Issue taught in?,21,Which course is listed as equivalent to LG101?,0.467
+sft_0271,Which requirement group does HSS200NR Natural Resources and Human(for Non Plant Production and Soil and Irrigation Students) belong to?,8,Which requirement group does MATH140 Elements of Linear Algebra belong to?,0.466
+sft_0547,what's the code of special topics in computer information systems(3)?,18,What is the prerequisite for LG101 Communication Skills in English?,0.466
+sft_0717,what's the code of special topics in computer information systems(2)?,18,What is the prerequisite for LG101 Communication Skills in English?,0.466
+sft_0734,what's the code of special topics in computer information systems(1)?,18,What is the prerequisite for LG101 Communication Skills in English?,0.466
+sft_0006,What is the attendance policy for HSS109NUR?,15,what's the course code for data warehousing and big data?,0.465
+sft_0078,what is the teaching method of HSS200AP?,15,what's the course code for data warehousing and big data?,0.463
+sft_0085,How is CIs475 taught?,28,Who teaches CIs381 this semester?,0.462
+sft_0086,How is CIs442 taught?,28,Who teaches CIs381 this semester?,0.462
+sft_0248,Is Basic French Language taught on campus or online?,13,is systems analysis and design compulsory or elective?,0.462
+sft_0543,Where is Oral & Dental Health in the study plan?,4,How many Department Compulsory credit hours are in the plan?,0.462
+sft_0554,What is the attendance policy for HSS102ME?,11,What is the course code for Mobile Application Development?,0.46
+sft_0371,Which textbook edition is the cheapest for Basic German Language?,11,What is the course code for Mobile Application Development?,0.459
+sft_0564,Which room is Introduction to Object- Oriented Programming Lab taught in?,7,How many credit hours is Introduction to Web Design?,0.459
+sft_0773,Which code does Cybersecurity Fundamentals have in the CIS plan?,4,How many Department Compulsory credit hours are in the plan?,0.459
+sft_0290,what is the teaching method of HSS100O.T?,15,what's the course code for data warehousing and big data?,0.458
+sft_0459,Is Animal Health (not for Veterinary Medical and Agriculture Students) compulsory or elective?,13,is systems analysis and design compulsory or elective?,0.458
+sft_0686,Which code does The History of the City of Jerusalem have in the CIS plan?,21,Which course is listed as equivalent to LG101?,0.458
+sft_0738,what is the teaching method of HSS100ADS?,15,what's the course code for data warehousing and big data?,0.458
+sft_0804,what's the code of disability and the society(not allowed for rehabilition science dep.students)?,11,What is the course code for Mobile Application Development?,0.458
+sft_0022,what is the teaching method of LG108?,15,what's the course code for data warehousing and big data?,0.457
+sft_0089,what is the teaching method of LG107?,15,what's the course code for data warehousing and big data?,0.457
+sft_0112,what is the teaching method of LG104?,15,what's the course code for data warehousing and big data?,0.457
+sft_0157,What grade do I need to pass Introduction to Object- Oriented Programming Lab?,7,How many credit hours is Introduction to Web Design?,0.457
+sft_0159,Do I have to take HSS101CS Introduction to Programming?,7,How many credit hours is Introduction to Web Design?,0.457
+sft_0175,what is the teaching method of CY101?,15,what's the course code for data warehousing and big data?,0.457
+sft_0411,What grade do I need to pass Islam and Contemporary Challenges?,24,what do i need before database applications?,0.457
+sft_0588,Which textbook edition is the cheapest for Animal Products and Public Health(for Non Veterinary Students)?,11,What is the course code for Mobile Application Development?,0.457
+sft_0745,what is the teaching method of LG103?,15,what's the course code for data warehousing and big data?,0.457
+sft_0367,What time is the SE412 lecture?,11,What is the course code for Mobile Application Development?,0.455
+sft_0465,Which code does Fundamentals of Software Engineering have in the CIS plan?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.455
+sft_0642,Which code does Digital Marketing have in the CIS plan?,3,How many Faculty Compulsory credit hours are in the plan?,0.455
+sft_0231,what is the teaching method of HSS212VM?,11,What is the course code for Mobile Application Development?,0.454
+sft_0724,what is the teaching method of HSS200NE?,11,What is the course code for Mobile Application Development?,0.454
+sft_0789,what is the teaching method of HSS211VM?,11,What is the course code for Mobile Application Development?,0.454
+sft_0810,What is the credit hour count of HSS207NR Plant Earth Problems & Solutions (for Non Agriculture Students)?,14,how many credit hours is communication and professional ethics?,0.454
+sft_0831,what is the teaching method of HSS177NF?,11,What is the course code for Mobile Application Development?,0.454
+sft_0009,what is the teaching method of CIs494?,15,what's the course code for data warehousing and big data?,0.452
+sft_0054,what is the teaching method of HSS216?,15,what's the course code for data warehousing and big data?,0.452
+sft_0109,what is the teaching method of HSS136?,15,what's the course code for data warehousing and big data?,0.452
+sft_0145,what is the teaching method of CIs441?,15,what's the course code for data warehousing and big data?,0.452
+sft_0227,what is the teaching method of CIs432?,15,what's the course code for data warehousing and big data?,0.452
+sft_0249,what is the teaching method of HSS251?,15,what's the course code for data warehousing and big data?,0.452
+sft_0285,what is the teaching method of CIs131?,15,what's the course code for data warehousing and big data?,0.452
+sft_0301,what is the teaching method of HSS105?,15,what's the course code for data warehousing and big data?,0.452
+sft_0310,what is the teaching method of CIs435?,15,what's the course code for data warehousing and big data?,0.452
+sft_0343,what is the teaching method of CIs452?,15,what's the course code for data warehousing and big data?,0.452
+sft_0354,what is the teaching method of HSS119?,15,what's the course code for data warehousing and big data?,0.452
+sft_0399,what is the teaching method of CIs457?,15,what's the course code for data warehousing and big data?,0.452
+sft_0406,what is the teaching method of CIs391?,15,what's the course code for data warehousing and big data?,0.452
+sft_0407,Do I have to take HSS116 Economic System in Islam?,18,What is the prerequisite for LG101 Communication Skills in English?,0.452
+sft_0420,what is the teaching method of HSS130?,15,what's the course code for data warehousing and big data?,0.452
+sft_0491,what is the teaching method of HSS213?,15,what's the course code for data warehousing and big data?,0.452
+sft_0501,what is the teaching method of CIs454?,15,what's the course code for data warehousing and big data?,0.452
+sft_0514,what is the teaching method of HSS121?,15,what's the course code for data warehousing and big data?,0.452
+sft_0596,what is the teaching method of CIs414?,15,what's the course code for data warehousing and big data?,0.452
+sft_0602,what is the teaching method of HSS117?,15,what's the course code for data warehousing and big data?,0.452
+sft_0622,what is the teaching method of HSS104?,15,what's the course code for data warehousing and big data?,0.452
+sft_0633,what is the teaching method of CIs335?,15,what's the course code for data warehousing and big data?,0.452
+sft_0662,what is the teaching method of CIs471?,15,what's the course code for data warehousing and big data?,0.452
+sft_0758,what is the teaching method of HSS127?,15,what's the course code for data warehousing and big data?,0.452
+sft_0774,what is the teaching method of HSS211?,15,what's the course code for data warehousing and big data?,0.452
+sft_0812,what is the teaching method of HSS110?,15,what's the course code for data warehousing and big data?,0.452
+sft_0286,is CIs271 a required course?,29,Will CS284 be offered in the summer semester?,0.451
+sft_0297,is CIs432 a required course?,29,Will CS284 be offered in the summer semester?,0.451
+sft_0336,is CIs431 a required course?,29,Will CS284 be offered in the summer semester?,0.451
+sft_0348,is CIs438 a required course?,29,Will CS284 be offered in the summer semester?,0.451
+sft_0377,is CIs411 a required course?,29,Will CS284 be offered in the summer semester?,0.451
+sft_0562,is CIs434 a required course?,29,Will CS284 be offered in the summer semester?,0.451
+sft_0676,What grade do I need to pass Animal Products and Public Health(for Non Veterinary Students)?,24,what do i need before database applications?,0.451
+sft_0706,is CIs338 a required course?,29,Will CS284 be offered in the summer semester?,0.451
+sft_0753,is CIs493 a required course?,29,Will CS284 be offered in the summer semester?,0.451
+sft_0780,is CIs413 a required course?,29,Will CS284 be offered in the summer semester?,0.451
+sft_0019,When is the last day to drop CIs441?,21,Which course is listed as equivalent to LG101?,0.45
+sft_0294,When is the last day to drop HSS213?,21,Which course is listed as equivalent to LG101?,0.45
+sft_0039,Is Graduation Project 2 taught on campus or online?,23,is multimedia for web design compulsory?,0.449
+sft_0043,which part of the plan is CIs414 in?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.449
+sft_0096,How is ARB102 taught?,12,how many hours is data mining?,0.449
+sft_0130,which part of the plan is CIs441 in?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.449
+sft_0151,which part of the plan is CIs491 in?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.449
+sft_0250,which part of the plan is CIs413 in?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.449
+sft_0512,which part of the plan is CIs451 in?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.449
+sft_0536,which part of the plan is CIs471 in?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.449
+sft_0542,what is the teaching method of HSS191CHE?,11,What is the course code for Mobile Application Development?,0.449
+sft_0630,Where is Advanced Database in the study plan?,21,Which course is listed as equivalent to LG101?,0.449
+sft_0687,How is ARB200 taught?,12,how many hours is data mining?,0.449
+sft_0729,what is the teaching method of HSS109NUR?,11,What is the course code for Mobile Application Development?,0.449
+sft_0807,Where is Introduction to Object- Oriented Programming Lab in the study plan?,7,How many credit hours is Introduction to Web Design?,0.448
+sft_0408,Which code does The Palestinian Issue have in the CIS plan?,21,Which course is listed as equivalent to LG101?,0.447
+sft_0055,Which code does Ourism and Museums in Jordan have in the CIS plan?,3,How many Faculty Compulsory credit hours are in the plan?,0.446
+sft_0579,what's the code of farm animal products (for non animal production and nutrition and food technology students)?,11,What is the course code for Mobile Application Development?,0.446
+sft_0102,Which code does Educational Technology have in the CIS plan?,11,What is the course code for Mobile Application Development?,0.444
+sft_0134,Is Selected Programming Languages taught on campus or online?,23,is multimedia for web design compulsory?,0.444
+sft_0269,What grade do I need to pass Turkish Language?,16,What do I need before I can take CS284 Analysis and Design of Algorithms?,0.444
+sft_0274,What is the credit hour count of HSS200AP Farm Animal Products (for Non Animal Production and Nutrition and Food Technology Students)?,11,What is the course code for Mobile Application Development?,0.444
+sft_0690,Where is Deep Learning in the study plan?,4,How many Department Compulsory credit hours are in the plan?,0.444
+sft_0735,What is the email of the HSS132 coordinator?,15,what's the course code for data warehousing and big data?,0.444
+sft_0238,When is the final exam of HSS119?,21,Which course is listed as equivalent to LG101?,0.442
+sft_0324,what is the teaching method of HSS101CS?,15,what's the course code for data warehousing and big data?,0.442
+sft_0455,which part of the plan is CIs391 in?,26,I only took HSS112SE. Can I register for CIs381 next semester?,0.442
+sft_0458,which part of the plan is CIs338 in?,26,I only took HSS112SE. Can I register for CIs381 next semester?,0.442
+sft_0480,When is the final exam of CIs131?,21,Which course is listed as equivalent to LG101?,0.442
+sft_0066,Which textbook edition is the cheapest for Fundamentals of Software Engineering?,18,What is the prerequisite for LG101 Communication Skills in English?,0.441
+sft_0340,is HSS102ME a required course?,23,is multimedia for web design compulsory?,0.441
+sft_0582,Where is Probability & Statistics (for Computer Sciences Students) in the study plan?,3,How many Faculty Compulsory credit hours are in the plan?,0.441
+sft_0654,Is Basic Skills in the Korean Language taught on campus or online?,13,is systems analysis and design compulsory or elective?,0.441
+sft_0414,Which code does Turkish Language have in the CIS plan?,3,How many Faculty Compulsory credit hours are in the plan?,0.44
+sft_0441,When is the last day to drop HSS207NR?,21,Which course is listed as equivalent to LG101?,0.439
+sft_0461,Which code does Basic French Language have in the CIS plan?,3,How many Faculty Compulsory credit hours are in the plan?,0.439
+sft_0677,Where is Enterprise Information Systems in the study plan?,18,What is the prerequisite for LG101 Communication Skills in English?,0.439
+sft_0767,Do I have to take CIs412 Advanced Database?,16,What do I need before I can take CS284 Analysis and Design of Algorithms?,0.439
+sft_0256,What grade do I need to pass The History of the City of Jerusalem?,16,What do I need before I can take CS284 Analysis and Design of Algorithms?,0.438
+sft_0460,Do I have to take MS100 Military Sciences?,28,Who teaches CIs381 this semester?,0.438
+sft_0671,is HSS214VM a required course?,29,Will CS284 be offered in the summer semester?,0.438
+sft_0694,Is Deep Learning taught on campus or online?,13,is systems analysis and design compulsory or elective?,0.438
+sft_0731,Where is The Law in Our Life in the study plan?,4,How many Department Compulsory credit hours are in the plan?,0.438
+sft_0329,"What is the credit hour count of HSS177NF Food Preservation ""in English"" (for Non Nutrition and Food Technology Students)?",18,What is the prerequisite for LG101 Communication Skills in English?,0.437
+sft_0495,Do I have to take CIs453 Accounting Information Systems?,28,Who teaches CIs381 this semester?,0.437
+sft_0557,is HSS101MATH a required course?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.437
+sft_0304,What is the email of the HSS212VM coordinator?,15,what's the course code for data warehousing and big data?,0.436
+sft_0620,What is the email of the HSS200NR coordinator?,15,what's the course code for data warehousing and big data?,0.436
+sft_0520,Where is Islamic Civilization in the study plan?,21,Which course is listed as equivalent to LG101?,0.435
+sft_0314,Where is Road Safety in the study plan?,21,Which course is listed as equivalent to LG101?,0.434
+sft_0709,Where is Beekeeping (for Non Plant Production Students) in the study plan?,11,What is the course code for Mobile Application Development?,0.434
+sft_0832,is HSS211 a required course?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.434
+sft_0180,What is the credit hour count of HSS200NR Natural Resources and Human(for Non Plant Production and Soil and Irrigation Students)?,11,What is the course code for Mobile Application Development?,0.432
+sft_0282,What is the equivalent course of HSS202PP Natural Plants of Jordan (for Non Agriculture Students)?,11,What is the course code for Mobile Application Development?,0.431
+sft_0293,Is Animal Products and Public Health(for Non Veterinary Students) taught on campus or online?,13,is systems analysis and design compulsory or elective?,0.431
+sft_0517,is LG106 a required course?,23,is multimedia for web design compulsory?,0.431
+sft_0242,Do I have to take HSS132 The History of the City of Jerusalem?,26,I only took HSS112SE. Can I register for CIs381 next semester?,0.43
+sft_0320,which part of the plan is CIs494 in?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.429
+sft_0395,What time is the HSS131 lecture?,27,How many credit hours is the whole plan?,0.429
+sft_0440,which part of the plan is CIs492 in?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.429
+sft_0507,which part of the plan is CIs436 in?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.429
+sft_0615,which part of the plan is CIs475 in?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.429
+sft_0684,which part of the plan is CIs435 in?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.429
+sft_0826,which part of the plan is CIs454 in?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.429
+sft_0838,which part of the plan is CIs495 in?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.429
+sft_0434,"What must I study before Health Promotion (for Non Medicine ,nursing and Midwifery Students)?",15,what's the course code for data warehousing and big data?,0.428
+sft_0108,Is Special Topics in Computer Information Systems(1) taught on campus or online?,13,is systems analysis and design compulsory or elective?,0.427
+sft_0385,Do I have to take HSS100P.T Wellness and Life Styles (not for Physical & Occupational Therapy)?,26,I only took HSS112SE. Can I register for CIs381 next semester?,0.427
+sft_0648,What is the email of the HSS233MATH coordinator?,15,what's the course code for data warehousing and big data?,0.427
+sft_0848,Is Special Topics in Computer Information Systems(3) taught on campus or online?,13,is systems analysis and design compulsory or elective?,0.427
+sft_0235,When is the last day to drop CIs457?,21,Which course is listed as equivalent to LG101?,0.425
+sft_0325,When is the last day to drop CIs475?,21,Which course is listed as equivalent to LG101?,0.425
+sft_0529,does disability and the society(not allowed for rehabilition science dep.students) have a prerequisite?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.425
+sft_0611,which part of the plan is CIs335 in?,21,Which course is listed as equivalent to LG101?,0.425
+sft_0801,Do I have to take HSS109NUR Family Health?,16,What do I need before I can take CS284 Analysis and Design of Algorithms?,0.425
+sft_0378,is CIs131 a required course?,23,is multimedia for web design compulsory?,0.424
+sft_0538,is HSS106CS a required course?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.424
+sft_0566,is CIs391 a required course?,23,is multimedia for web design compulsory?,0.424
+sft_0842,is CIs335 a required course?,23,is multimedia for web design compulsory?,0.424
+sft_0275,is HSS251 a required course?,29,Will CS284 be offered in the summer semester?,0.423
+sft_0776,Is English Skills in Information Technology taught on campus or online?,13,is systems analysis and design compulsory or elective?,0.423
+sft_0218,What is the credit hour count of HSS233MATH Probability & Statistics (for Computer Sciences Students)?,1,How many credit hours of University Compulsory Requirements do I need?,0.422
+sft_0552,Which code does International Global Issues have in the CIS plan?,21,Which course is listed as equivalent to LG101?,0.422
+sft_0513,Which code does Principles of Modern Operating Systems have in the CIS plan?,11,What is the course code for Mobile Application Development?,0.421
+sft_0002,which part of the plan is HSS102ME in?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.42
+sft_0051,which part of the plan is LG104 in?,18,What is the prerequisite for LG101 Communication Skills in English?,0.42
+sft_0190,Which code does Principles of Sociology have in the CIS plan?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.42
+sft_0504,which part of the plan is LG109 in?,18,What is the prerequisite for LG101 Communication Skills in English?,0.42
+sft_0531,is HSS100NUR a required course?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.419
+sft_0821,is HSS100O.T a required course?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.419
+sft_0060,Which code does Principles in Nuclear Energy and Its Peaceful Applications have in the CIS plan?,11,What is the course code for Mobile Application Development?,0.418
+sft_0118,What time is the HSS200PP lecture?,11,What is the course code for Mobile Application Development?,0.418
+sft_0548,What time is the HSS201PP lecture?,11,What is the course code for Mobile Application Development?,0.418
+sft_0645,is ES103 a required course?,30,Can my advisor let me skip a prerequisite?,0.418
+sft_0012,How is ES103 taught?,12,how many hours is data mining?,0.417
+sft_0031,What is HSS207NR?,28,Who teaches CIs381 this semester?,0.417
+sft_0115,What is HSS102ME?,28,Who teaches CIs381 this semester?,0.417
+sft_0277,What is HSS200NE?,28,Who teaches CIs381 this semester?,0.417
+sft_0487,"What must I study before Food Preservation ""in English"" (for Non Nutrition and Food Technology Students)?",19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.417
+sft_0489,Where is Java Programming in the study plan?,12,how many hours is data mining?,0.417
+sft_0605,How is LG106 taught?,12,how many hours is data mining?,0.417
+sft_0846,Do I have to take HSS133 Civilization and Recent Cultures?,11,What is the course code for Mobile Application Development?,0.417
+sft_0346,When is the final exam of HSS231?,21,Which course is listed as equivalent to LG101?,0.416
+sft_0207,is HSS213VM a required course?,13,is systems analysis and design compulsory or elective?,0.415
+sft_0439,How is HSS233MATH taught?,12,how many hours is data mining?,0.415
+sft_0490,Do I have to take HSS153 Islam and Contemporary Challenges?,16,What do I need before I can take CS284 Analysis and Design of Algorithms?,0.415
+sft_0576,How is HSS101MATH taught?,12,how many hours is data mining?,0.415
+sft_0681,what's the code of natural plants of jordan (for non agriculture students)?,11,What is the course code for Mobile Application Development?,0.415
+sft_0730,How is HSS102MATH taught?,12,how many hours is data mining?,0.415
+sft_0105,is HSS117 a required course?,26,I only took HSS112SE. Can I register for CIs381 next semester?,0.414
+sft_0202,is HSS131 a required course?,26,I only took HSS112SE. Can I register for CIs381 next semester?,0.414
+sft_0351,Is Privacy of Healthcare Information taught on campus or online?,13,is systems analysis and design compulsory or elective?,0.414
+sft_0258,Where is Fundamentals of Information Systems in the study plan?,4,How many Department Compulsory credit hours are in the plan?,0.413
+sft_0629,Which room is Calculus 2 taught in?,12,how many hours is data mining?,0.413
+sft_0178,Is Natural Plants of Jordan (for Non Agriculture Students) taught on campus or online?,13,is systems analysis and design compulsory or elective?,0.412
+sft_0454,Where is Spanish Language in the study plan?,4,How many Department Compulsory credit hours are in the plan?,0.412
+sft_0578,which part of the plan is CY101 in?,19,What are the prerequisites for CIs401 Multimedia for Web Design?,0.412
+sft_0171,is HSS200NR a required course?,29,Will CS284 be offered in the summer semester?,0.411
+sft_0369,is HSS202PP a required course?,29,Will CS284 be offered in the summer semester?,0.411
+sft_0492,Is Principles of Psychology taught on campus or online?,13,is systems analysis and design compulsory or elective?,0.411
+sft_0526,Where is Basic French Language in the study plan?,4,How many Department Compulsory credit hours are in the plan?,0.411
+sft_0577,Where is Digital Marketing in the study plan?,12,how many hours is data mining?,0.411
+sft_0613,is HSS201PP a required course?,29,Will CS284 be offered in the summer semester?,0.411
+sft_0141,Which room is Network Security taught in?,24,what do i need before database applications?,0.41
+sft_0210,which part of the plan is MS100 in?,29,Will CS284 be offered in the summer semester?,0.41
+sft_0601,is HSS100ADS a required course?,13,is systems analysis and design compulsory or elective?,0.41
+sft_0739,Which code does Probability & Statistics (for Computer Sciences Students) have in the CIS plan?,18,What is the prerequisite for LG101 Communication Skills in English?,0.41
+sft_0150,Do I have to take SE230 Fundamentals of Software Engineering?,16,What do I need before I can take CS284 Analysis and Design of Algorithms?,0.409
+sft_0030,What is HSS109NUR?,28,Who teaches CIs381 this semester?,0.408
+sft_0052,How is HSS115 taught?,12,how many hours is data mining?,0.408
+sft_0064,How is HSS116 taught?,12,how many hours is data mining?,0.408
+sft_0113,What is HSS100O.T?,28,Who teaches CIs381 this semester?,0.408
+sft_0129,How is HSS135 taught?,12,how many hours is data mining?,0.408
+sft_0215,How is HSS137 taught?,12,how many hours is data mining?,0.408
+sft_0259,How is HSS153 taught?,12,how many hours is data mining?,0.408
+sft_0376,How is HSS133 taught?,12,how many hours is data mining?,0.408
+sft_0428,How is HSS161 taught?,12,how many hours is data mining?,0.408
+sft_0494,How is HSS131 taught?,12,how many hours is data mining?,0.408
+sft_0635,Where is Plant Earth Problems & Solutions (for Non Agriculture Students) in the study plan?,18,What is the prerequisite for LG101 Communication Skills in English?,0.408
+sft_0744,What is HSS191CHE?,28,Who teaches CIs381 this semester?,0.408
+sft_0754,what's the code of introduction to renewable energy (for non mechanical engineering students)?,7,How many credit hours is Introduction to Web Design?,0.408
+sft_0768,What is HSS100P.T?,28,Who teaches CIs381 this semester?,0.408
+sft_0779,"Do I have to take HSS177NF Food Preservation ""in English"" (for Non Nutrition and Food Technology Students)?",26,I only took HSS112SE. Can I register for CIs381 next semester?,0.407
+sft_0553,Do I have to take HSS200NE Principles in Nuclear Energy and Its Peaceful Applications?,17,What are the prerequisites for CIs381 Mobile Application Development?,0.405
+sft_0550,Do I have to take CIs457 Digital Marketing?,16,What do I need before I can take CS284 Analysis and Design of Algorithms?,0.404
+sft_0572,Where is Basic German Language in the study plan?,3,How many Faculty Compulsory credit hours are in the plan?,0.404
+sft_0099,What is ES103?,28,Who teaches CIs381 this semester?,0.4
+sft_0106,which part of the plan is HSS117 in?,21,Which course is listed as equivalent to LG101?,0.4
+sft_0122,is CY101 a required course?,23,is multimedia for web design compulsory?,0.4
+sft_0186,is HSS137 a required course?,13,is systems analysis and design compulsory or elective?,0.4
+sft_0208,is HSS105 a required course?,13,is systems analysis and design compulsory or elective?,0.4
+sft_0212,which part of the plan is HSS211 in?,21,Which course is listed as equivalent to LG101?,0.4
+sft_0226,Do I have to take HSS130 Digital Skills?,18,What is the prerequisite for LG101 Communication Skills in English?,0.4
+sft_0302,What is SE210?,28,Who teaches CIs381 this semester?,0.4
+sft_0311,Where is English Skills in Information Technology in the study plan?,11,What is the course code for Mobile Application Development?,0.4
+sft_0312,which part of the plan is HSS110 in?,21,Which course is listed as equivalent to LG101?,0.4
+sft_0393,is HSS136 a required course?,13,is systems analysis and design compulsory or elective?,0.4
+sft_0486,What is HSS102MATH?,28,Who teaches CIs381 this semester?,0.4
+sft_0696,which part of the plan is HSS104 in?,21,Which course is listed as equivalent to LG101?,0.4
+sft_0723,Do I have to take HSS121 Principles of Sociology?,16,What do I need before I can take CS284 Analysis and Design of Algorithms?,0.4
+sft_0765,is HSS104PH a required course?,30,Can my advisor let me skip a prerequisite?,0.4
+sft_0793,which part of the plan is HSS100O.T in?,28,Who teaches CIs381 this semester?,0.4
+sft_0822,which part of the plan is HSS100NUR in?,28,Who teaches CIs381 this semester?,0.4
+sft_0272,which part of the plan is HSS251 in?,18,What is the prerequisite for LG101 Communication Skills in English?,0.396
+sft_0556,which part of the plan is HSS127 in?,18,What is the prerequisite for LG101 Communication Skills in English?,0.396
+sft_0574,which part of the plan is HSS213 in?,18,What is the prerequisite for LG101 Communication Skills in English?,0.396
+sft_0604,which part of the plan is HSS135 in?,18,What is the prerequisite for LG101 Communication Skills in English?,0.396
+sft_0762,which part of the plan is HSS153 in?,18,What is the prerequisite for LG101 Communication Skills in English?,0.396
+sft_0586,Where is Animal Products and Public Health(for Non Veterinary Students) in the study plan?,10,Is Discrete Mathematics a faculty or department requirement?,0.395
+sft_0640,Which room is Natural Resources and Human(for Non Plant Production and Soil and Irrigation Students) taught in?,11,What is the course code for Mobile Application Development?,0.395
+sft_0829,Is The History of the City of Jerusalem taught on campus or online?,18,What is the prerequisite for LG101 Communication Skills in English?,0.394
+sft_0008,Which code does Wellness and Life Styles (not for Physical & Occupational Therapy) have in the CIS plan?,9,Does MATH140 Elements of Linear Algebra have a prerequisite?,0.392
+sft_0220,How is HSS213VM taught?,12,how many hours is data mining?,0.392
+sft_0225,Do I have to take HSS161 Contemporary Problems?,20,I took HSS211CS Data Structures. Can I register for CS284?,0.392
+sft_0318,How is HSS106CS taught?,12,how many hours is data mining?,0.392
+sft_0426,How is HSS207NR taught?,12,how many hours is data mining?,0.392
+sft_0499,Which room is Animal Health (not for Veterinary Medical and Agriculture Students) taught in?,10,Is Discrete Mathematics a faculty or department requirement?,0.392
+sft_0698,How is HSS200PP taught?,12,how many hours is data mining?,0.392
+sft_0775,How is HSS113SE taught?,12,how many hours is data mining?,0.392
+sft_0823,How is HSS201PP taught?,12,how many hours is data mining?,0.392
+sft_0014,What is CIs335?,28,Who teaches CIs381 this semester?,0.391
+sft_0233,What is HSS211?,28,Who teaches CIs381 this semester?,0.391
+sft_0278,What is HSS153?,28,Who teaches CIs381 this semester?,0.391
+sft_0332,What is HSS119?,28,Who teaches CIs381 this semester?,0.391
+sft_0339,What is CIs412?,28,Who teaches CIs381 this semester?,0.391
+sft_0353,What is CIs491?,28,Who teaches CIs381 this semester?,0.391
+sft_0403,What is HSS131?,28,Who teaches CIs381 this semester?,0.391
+sft_0449,What is HSS132?,28,Who teaches CIs381 this semester?,0.391
+sft_0617,What is HSS127?,28,Who teaches CIs381 this semester?,0.391
+sft_0639,What is HSS137?,28,Who teaches CIs381 this semester?,0.391
+sft_0824,What is HSS116?,28,Who teaches CIs381 this semester?,0.391
+sft_0203,Where is Appreciation of Literary Texts in the study plan?,18,What is the prerequisite for LG101 Communication Skills in English?,0.39
+sft_0479,Where is Selected Programming Languages in the study plan?,18,What is the prerequisite for LG101 Communication Skills in English?,0.39
+sft_0657,When is the final exam of CIs453?,21,Which course is listed as equivalent to LG101?,0.39
+sft_0785,Do I have to take CIs491 Graduation Project 1?,17,What are the prerequisites for CIs381 Mobile Application Development?,0.389
+sft_0843,Do I have to take CIs476 Cloud Computing?,28,Who teaches CIs381 this semester?,0.389
+sft_0153,Where is Natural Plants of Jordan (for Non Agriculture Students) in the study plan?,10,Is Discrete Mathematics a faculty or department requirement?,0.388
+sft_0445,which part of the plan is HSS212VM in?,18,What is the prerequisite for LG101 Communication Skills in English?,0.388
+sft_0516,which part of the plan is HSS200AP in?,18,What is the prerequisite for LG101 Communication Skills in English?,0.388
+sft_0530,which part of the plan is HSS213VM in?,18,What is the prerequisite for LG101 Communication Skills in English?,0.388
+sft_0766,Is Cloud Computing taught on campus or online?,13,is systems analysis and design compulsory or elective?,0.388
+sft_0132,Do I have to take CIs492 Graduation Project 2?,24,what do i need before database applications?,0.386
+sft_0185,What is CIs442?,24,what do i need before database applications?,0.386
+sft_0189,What is CIs457?,24,what do i need before database applications?,0.386
+sft_0790,What is CIs492?,24,what do i need before database applications?,0.386
+sft_0815,What is CIs494?,24,what do i need before database applications?,0.386
+sft_0847,What is CIs452?,24,what do i need before database applications?,0.386
+sft_0077,How is HSS100NUR taught?,12,how many hours is data mining?,0.385
+sft_0308,How is HSS100P.T taught?,12,how many hours is data mining?,0.385
+sft_0174,Do I have to take CIs495 Special Topics in Computer Information Systems(3)?,11,What is the course code for Mobile Application Development?,0.382
+sft_0222,Do I have to take CIs494 Special Topics in Computer Information Systems(2)?,11,What is the course code for Mobile Application Development?,0.382
+sft_0474,Where is Principles of Psychology in the study plan?,4,How many Department Compulsory credit hours are in the plan?,0.382
+sft_0061,What is HSS104PH?,28,Who teaches CIs381 this semester?,0.375
+sft_0110,What is HSS211VM?,28,Who teaches CIs381 this semester?,0.375
+sft_0116,What is HSS212VM?,28,Who teaches CIs381 this semester?,0.375
+sft_0392,What is HSS202PP?,28,Who teaches CIs381 this semester?,0.375
+sft_0306,When is the final exam of HSS233MATH?,21,Which course is listed as equivalent to LG101?,0.37
+sft_0438,Is Fundamentals of Software Engineering taught on campus or online?,13,is systems analysis and design compulsory or elective?,0.37
+sft_0234,Is Natural Resources and Human(for Non Plant Production and Soil and Irrigation Students) taught on campus or online?,13,is systems analysis and design compulsory or elective?,0.369
+sft_0279,Which code does Animal Health (not for Veterinary Medical and Agriculture Students) have in the CIS plan?,21,Which course is listed as equivalent to LG101?,0.367
+sft_0621,Do I have to take CIs454 Business Process Managment?,11,What is the course code for Mobile Application Development?,0.367
+sft_0845,Do I have to take HSS135 Islamic Culture?,24,what do i need before database applications?,0.361
+sft_0081,Do I have to take LG105 Basic French Language?,18,What is the prerequisite for LG101 Communication Skills in English?,0.36
+sft_0352,Which code does Home Gardens (for Non Plant Production and Soil and Irrigation Students) have in the CIS plan?,18,What is the prerequisite for LG101 Communication Skills in English?,0.358
+sft_0195,Is History of Sciences in Islam taught on campus or online?,18,What is the prerequisite for LG101 Communication Skills in English?,0.355
+sft_0144,Which code does Animal Products and Public Health(for Non Veterinary Students) have in the CIS plan?,18,What is the prerequisite for LG101 Communication Skills in English?,0.354
+sft_0400,What is ARB200?,28,Who teaches CIs381 this semester?,0.348
+sft_0811,Do I have to take SE210 Java Programming?,12,how many hours is data mining?,0.348
+sft_0429,What is LG108?,21,Which course is listed as equivalent to LG101?,0.345
