@@ -47,11 +47,16 @@ Scoring: questions with a short answer (a number, a course code, yes/no, a requi
 
 ## Where the checkpoints are
 
-Checkpoints are not in Git. They are saved to Google Drive:
+Checkpoints are not in Git. The final models are on the Hugging Face Hub:
+
+- Continued-pretrained model: https://huggingface.co/talanakash/planpath-gpt2-cpt
+- Fine-tuned model: https://huggingface.co/talanakash/planpath-gpt2-sft
+- Base model: `gpt2` from the Hugging Face Hub
+
+A copy of the training checkpoints is also saved to Google Drive:
 
 - Continued-pretrained model: `MyDrive/PlanPath/checkpoints/cpt/final`
 - Fine-tuned model: `MyDrive/PlanPath/checkpoints/sft/final`
-- Base model: `gpt2` from the Hugging Face Hub
 
 ## Repository
 
