@@ -47,10 +47,10 @@ Scoring: questions with a short answer (a number, a course code, yes/no, a requi
 
 ## Where the checkpoints are
 
-Checkpoints are not in Git. The final models are on the Hugging Face Hub:
+Checkpoints are not in Git. The final models are on the Hugging Face Hub (private; access by invitation to the team organization):
 
-- Continued-pretrained model: https://huggingface.co/talanakash/planpath-gpt2-cpt
-- Fine-tuned model: https://huggingface.co/talanakash/planpath-gpt2-sft
+- Continued-pretrained model: https://huggingface.co/llm-course-planpath/planpath-cpt
+- Fine-tuned model: https://huggingface.co/llm-course-planpath/planpath-sft
 - Base model: `gpt2` from the Hugging Face Hub
 
 A copy of the training checkpoints is also saved to Google Drive:
